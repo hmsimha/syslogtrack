@@ -1,0 +1,11 @@
+Mar 14 00:34:29 ihartlinux anacron[971]: Job `cron.daily' terminated (mailing output)
+Mar 14 00:34:29 ihartlinux anacron[971]: Normal exit (1 job run)
+Mar 14 00:34:29 ihartlinux postfix/pickup[1875]: 50839156040C: uid=0 from=<root>
+Mar 14 00:34:29 ihartlinux postfix/cleanup[4596]: 50839156040C: message-id=<20140314073429.50839156040C@iHartLinux>
+Mar 14 00:34:29 ihartlinux postfix/qmgr[1876]: 50839156040C: from=<root@iHartLinux>, size=609, nrcpt=1 (queue active)
+Mar 14 00:34:29 ihartlinux postfix/local[4599]: 50839156040C: to=<root@iHartLinux>, orig_to=<root>, relay=local, delay=0.3, delays=0.15/0.09/0/0.07, dsn=2.0.0, status=sent (delivered to mailbox)
+Mar 14 00:34:29 ihartlinux postfix/qmgr[1876]: 50839156040C: removed
+Mar 14 00:37:58 ihartlinux acpid: client 3214[0:0] has disconnected
+Mar 14 00:37:58 ihartlinux acpid: client connected from 3214[0:0]
+Mar 14 00:37:58 ihartlinux acpid: 1 client rule loaded
+Mar 14 00:39:01 ihartlinux CRON[4627]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
