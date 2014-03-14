@@ -1385,3 +1385,1429 @@ Mar 14 01:00:45 ihartlinux acpid: client 1028[0:0] has disconnected
 Mar 14 01:00:45 ihartlinux acpid: client connected from 1028[0:0]
 Mar 14 01:00:45 ihartlinux acpid: 1 client rule loaded
 Mar 14 01:01:17 ihartlinux sudo: pam_ecryptfs: pam_sm_authenticate: /home/hmsimha is already mounted
+Mar 14 01:03:39 ihartlinux sudo: pam_ecryptfs: pam_sm_authenticate: /home/hmsimha is already mounted
+Mar 14 01:05:03 ihartlinux postfix/qmgr[2190]: 140CE1560F54: from=<hmsimha@iHartLinux>, size=438, nrcpt=1 (queue active)
+Mar 14 01:05:03 ihartlinux postfix/qmgr[2190]: AD2DB1560F4E: from=<hmsimha@iHartLinux>, size=3874, nrcpt=1 (queue active)
+Mar 14 01:05:03 ihartlinux postfix/qmgr[2190]: C9D051560F58: from=<hmsimha@iHartLinux>, size=445, nrcpt=1 (queue active)
+Mar 14 01:05:23 ihartlinux postfix/smtp[4465]: C9D051560F58: to=<hmsimha@gmail.com>, relay=none, delay=29317, delays=29297/0.02/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:05:23 ihartlinux postfix/smtp[4463]: 140CE1560F54: to=<hmsimha@gmail.com>, relay=none, delay=29352, delays=29332/0.01/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:05:23 ihartlinux postfix/smtp[4464]: AD2DB1560F4E: to=<hmsimha@gmail.com>, relay=none, delay=29681, delays=29661/0.01/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:06:39 ihartlinux sudo: pam_ecryptfs: pam_sm_authenticate: /home/hmsimha is already mounted
+Mar 14 01:06:48 ihartlinux acpid: client 1028[0:0] has disconnected
+Mar 14 01:06:48 ihartlinux acpid: client connected from 1028[0:0]
+Mar 14 01:06:48 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:07:07 ihartlinux gnome-session[2410]: Gdk-WARNING: gnome-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.#012
+Mar 14 01:07:07 ihartlinux colord: device removed: xrandr-LVDS1
+Mar 14 01:07:07 ihartlinux colord: Profile removed: icc-cb870ce478e1d667e995ef8bd5e4d663
+Mar 14 01:07:07 ihartlinux colord: Profile removed: icc-be7f03d9cb17bee5afa57fa7f79a894f
+Mar 14 01:07:07 ihartlinux acpid: client 1028[0:0] has disconnected
+Mar 14 01:07:07 ihartlinux acpid: client 1028[0:0] has disconnected
+Mar 14 01:07:07 ihartlinux acpid: client connected from 4890[0:0]
+Mar 14 01:07:07 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:07:07 ihartlinux acpid: client connected from 4890[0:0]
+Mar 14 01:07:07 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:07:07 ihartlinux dbus[674]: [system] Activating service name='org.freedesktop.systemd1' (using servicehelper)
+Mar 14 01:07:07 ihartlinux dbus[674]: [system] Successfully activated service 'org.freedesktop.systemd1'
+Mar 14 01:07:07 ihartlinux colord: Device added: xrandr-LVDS1
+Mar 14 01:07:07 ihartlinux colord: Automatic metadata add icc-b274abdaaffd0177381e73aa8a63a27b to xrandr-LVDS1
+Mar 14 01:07:07 ihartlinux colord: Profile added: icc-b274abdaaffd0177381e73aa8a63a27b
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Successfully made thread 5028 of process 5028 (n/a) owned by '111' high priority at nice level -11.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Supervising 1 threads of 1 processes of 1 users.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Successfully made thread 5041 of process 5028 (n/a) owned by '111' RT at priority 5.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Supervising 2 threads of 1 processes of 1 users.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Successfully made thread 5053 of process 5028 (n/a) owned by '111' RT at priority 5.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Supervising 3 threads of 1 processes of 1 users.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Successfully made thread 5070 of process 5070 (n/a) owned by '111' high priority at nice level -11.
+Mar 14 01:07:08 ihartlinux rtkit-daemon[1902]: Supervising 4 threads of 2 processes of 1 users.
+Mar 14 01:07:08 ihartlinux pulseaudio[5070]: [pulseaudio] pid.c: Daemon already running.
+Mar 14 01:07:11 ihartlinux lightdm: pam_ecryptfs: pam_sm_authenticate: /home/hmsimha is already mounted
+Mar 14 01:07:11 ihartlinux NetworkManager[1030]: <warn> error requesting auth for org.freedesktop.NetworkManager.wifi.share.protected: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.105': no such name
+Mar 14 01:07:11 ihartlinux NetworkManager[1030]: <warn> error requesting auth for org.freedesktop.NetworkManager.wifi.share.open: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.105': no such name
+Mar 14 01:07:11 ihartlinux colord: device removed: xrandr-LVDS1
+Mar 14 01:07:11 ihartlinux colord: Profile removed: icc-b274abdaaffd0177381e73aa8a63a27b
+Mar 14 01:07:12 ihartlinux gnome-session[5311]: WARNING: Could not parse desktop file telepathy-indicator.desktop or it references a not found TryExec binary
+Mar 14 01:07:12 ihartlinux gnome-session[5311]: WARNING: Could not parse desktop file gnome-user-share.desktop or it references a not found TryExec binary
+Mar 14 01:07:12 ihartlinux gnome-session[5311]: WARNING: Could not parse desktop file nautilus-autostart.desktop or it references a not found TryExec binary
+Mar 14 01:07:12 ihartlinux gnome-session[5311]: WARNING: Could not parse desktop file deja-dup-monitor.desktop or it references a not found TryExec binary
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Successfully made thread 5438 of process 5438 (n/a) owned by '1000' high priority at nice level -11.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Supervising 4 threads of 2 processes of 2 users.
+Mar 14 01:07:12 ihartlinux pulseaudio[5438]: [pulseaudio] pid.c: Stale PID file, overwriting.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Successfully made thread 5474 of process 5438 (n/a) owned by '1000' RT at priority 5.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Supervising 5 threads of 2 processes of 2 users.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Successfully made thread 5475 of process 5438 (n/a) owned by '1000' RT at priority 5.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Supervising 6 threads of 2 processes of 2 users.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Successfully made thread 5482 of process 5482 (n/a) owned by '1000' high priority at nice level -11.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Supervising 7 threads of 3 processes of 2 users.
+Mar 14 01:07:12 ihartlinux pulseaudio[5482]: [pulseaudio] pid.c: Daemon already running.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Successfully made thread 5493 of process 5493 (n/a) owned by '1000' high priority at nice level -11.
+Mar 14 01:07:12 ihartlinux rtkit-daemon[1902]: Supervising 7 threads of 3 processes of 2 users.
+Mar 14 01:07:12 ihartlinux pulseaudio[5493]: [pulseaudio] pid.c: Daemon already running.
+Mar 14 01:07:12 ihartlinux dbus[674]: [system] Activating service name='org.freedesktop.locale1' (using servicehelper)
+Mar 14 01:07:12 ihartlinux dbus[674]: [system] Successfully activated service 'org.freedesktop.locale1'
+Mar 14 01:07:12 ihartlinux colord: Device added: xrandr-LVDS1
+Mar 14 01:07:12 ihartlinux colord: Profile added: icc-cb870ce478e1d667e995ef8bd5e4d663
+Mar 14 01:07:12 ihartlinux colord: Automatic metadata add icc-be7f03d9cb17bee5afa57fa7f79a894f to xrandr-LVDS1
+Mar 14 01:07:12 ihartlinux colord: Profile added: icc-be7f03d9cb17bee5afa57fa7f79a894f
+Mar 14 01:07:21 ihartlinux acpid: client 4890[0:0] has disconnected
+Mar 14 01:07:21 ihartlinux acpid: client connected from 4890[0:0]
+Mar 14 01:07:21 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:08:05 ihartlinux kernel: imklog 5.8.11, log source = /proc/kmsg started.
+Mar 14 01:08:05 ihartlinux rsyslogd: [origin software="rsyslogd" swVersion="5.8.11" x-pid="587" x-info="http://www.rsyslog.com"] start
+Mar 14 01:08:05 ihartlinux rsyslogd: rsyslogd's groupid changed to 103
+Mar 14 01:08:05 ihartlinux rsyslogd: rsyslogd's userid changed to 101
+Mar 14 01:08:05 ihartlinux rsyslogd-2039: Could not open output pipe '/dev/xconsole' [try http://www.rsyslog.com/e/2039 ]
+Mar 14 01:08:05 ihartlinux dbus[655]: [system] AppArmor D-Bus mediation is enabled
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Initializing cgroup subsys cpuset
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Initializing cgroup subsys cpu
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Initializing cgroup subsys cpuacct
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Linux version 3.11.0-18-generic (buildd@toyol) (gcc version 4.8.1 (Ubuntu/Linaro 4.8.1-10ubuntu8) ) #32-Ubuntu SMP Tue Feb 18 21:11:14 UTC 2014 (Ubuntu 3.11.0-18.32-generic 3.11.10.4)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-3.11.0-18-generic.efi.signed root=UUID=3ef175d1-fafa-4e94-9a9a-62ee335a63c1 ro quiet splash vt.handoff=7
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] KERNEL supported cpus:
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   Intel GenuineIntel
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   AMD AuthenticAMD
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   Centaur CentaurHauls
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x0000000000087fff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000000088000-0x00000000000bffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000001fffffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000020000000-0x00000000201fffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000020200000-0x0000000040003fff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000040004000-0x0000000040004fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000040005000-0x00000000a9dbefff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000a9dbf000-0x00000000aaebefff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000aaebf000-0x00000000aafbefff] ACPI NVS
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000aafbf000-0x00000000aaffefff] ACPI data
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000aafff000-0x00000000aaffffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000ab000000-0x00000000af9fffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000feb00000-0x00000000feb03fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000fed10000-0x00000000fed19fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000fed1c000-0x00000000fed1ffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x00000000ffb00000-0x00000000ffffffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BIOS-e820: [mem 0x0000000100000000-0x000000024f5fffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: update [mem 0xa004d018-0xa005d057] usable ==> usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] extended physical RAM map:
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000000000000-0x0000000000087fff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000000088000-0x00000000000bffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000000100000-0x000000001fffffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000020000000-0x00000000201fffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000020200000-0x0000000040003fff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000040004000-0x0000000040004fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000040005000-0x00000000a004d017] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000a004d018-0x00000000a005d057] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000a005d058-0x00000000a9dbefff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000a9dbf000-0x00000000aaebefff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000aaebf000-0x00000000aafbefff] ACPI NVS
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000aafbf000-0x00000000aaffefff] ACPI data
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000aafff000-0x00000000aaffffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000ab000000-0x00000000af9fffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000feb00000-0x00000000feb03fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000fed10000-0x00000000fed19fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000fed1c000-0x00000000fed1ffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x00000000ffb00000-0x00000000ffffffff] reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] reserve setup_data: [mem 0x0000000100000000-0x000000024f5fffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] NX (Execute Disable) protection: active
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: EFI v2.31 by INSYDE Corp.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi:  ACPI=0xaaffe000  ACPI 2.0=0xaaffe014  SMBIOS=0xaaebef98 
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem00: type=3, attr=0xf, range=[0x0000000000000000-0x0000000000001000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem01: type=2, attr=0xf, range=[0x0000000000001000-0x0000000000004000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem02: type=7, attr=0xf, range=[0x0000000000004000-0x000000000006f000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem03: type=4, attr=0xf, range=[0x000000000006f000-0x0000000000070000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem04: type=7, attr=0xf, range=[0x0000000000070000-0x0000000000088000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem05: type=6, attr=0x800000000000000f, range=[0x0000000000088000-0x00000000000a0000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem06: type=7, attr=0xf, range=[0x0000000000100000-0x0000000001000000) (15MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem07: type=2, attr=0xf, range=[0x0000000001000000-0x00000000023f3000) (19MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem08: type=7, attr=0xf, range=[0x00000000023f3000-0x0000000020000000) (476MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem09: type=0, attr=0xf, range=[0x0000000020000000-0x0000000020200000) (2MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem10: type=7, attr=0xf, range=[0x0000000020200000-0x000000003e7c7000) (485MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem11: type=2, attr=0xf, range=[0x000000003e7c7000-0x0000000040000000) (24MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem12: type=7, attr=0xf, range=[0x0000000040000000-0x0000000040004000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem13: type=0, attr=0xf, range=[0x0000000040004000-0x0000000040005000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem14: type=7, attr=0xf, range=[0x0000000040005000-0x0000000074ec8000) (846MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem15: type=2, attr=0xf, range=[0x0000000074ec8000-0x000000009e3c0000) (660MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem16: type=4, attr=0xf, range=[0x000000009e3c0000-0x000000009e3e0000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem17: type=7, attr=0xf, range=[0x000000009e3e0000-0x00000000a004d000) (28MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem18: type=2, attr=0xf, range=[0x00000000a004d000-0x00000000a013c000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem19: type=7, attr=0xf, range=[0x00000000a013c000-0x00000000a0140000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem20: type=2, attr=0xf, range=[0x00000000a0140000-0x00000000a0145000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem21: type=7, attr=0xf, range=[0x00000000a0145000-0x00000000a0147000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem22: type=2, attr=0xf, range=[0x00000000a0147000-0x00000000a0224000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem23: type=4, attr=0xf, range=[0x00000000a0224000-0x00000000a13b0000) (17MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem24: type=7, attr=0xf, range=[0x00000000a13b0000-0x00000000a13b4000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem25: type=2, attr=0xf, range=[0x00000000a13b4000-0x00000000a13b6000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem26: type=7, attr=0xf, range=[0x00000000a13b6000-0x00000000a13b8000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem27: type=2, attr=0xf, range=[0x00000000a13b8000-0x00000000a13b9000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem28: type=7, attr=0xf, range=[0x00000000a13b9000-0x00000000a13bb000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem29: type=2, attr=0xf, range=[0x00000000a13bb000-0x00000000a13bc000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem30: type=7, attr=0xf, range=[0x00000000a13bc000-0x00000000a13bd000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem31: type=2, attr=0xf, range=[0x00000000a13bd000-0x00000000a13bf000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem32: type=7, attr=0xf, range=[0x00000000a13bf000-0x00000000a148b000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem33: type=1, attr=0xf, range=[0x00000000a148b000-0x00000000a15bf000) (1MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem34: type=7, attr=0xf, range=[0x00000000a15bf000-0x00000000a64c1000) (79MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem35: type=4, attr=0xf, range=[0x00000000a64c1000-0x00000000a6d43000) (8MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem36: type=7, attr=0xf, range=[0x00000000a6d43000-0x00000000a7044000) (3MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem37: type=4, attr=0xf, range=[0x00000000a7044000-0x00000000a705a000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem38: type=7, attr=0xf, range=[0x00000000a705a000-0x00000000a705b000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem39: type=4, attr=0xf, range=[0x00000000a705b000-0x00000000a70f6000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem40: type=7, attr=0xf, range=[0x00000000a70f6000-0x00000000a70fb000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem41: type=4, attr=0xf, range=[0x00000000a70fb000-0x00000000a7103000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem42: type=7, attr=0xf, range=[0x00000000a7103000-0x00000000a7104000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem43: type=4, attr=0xf, range=[0x00000000a7104000-0x00000000a7130000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem44: type=7, attr=0xf, range=[0x00000000a7130000-0x00000000a7131000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem45: type=4, attr=0xf, range=[0x00000000a7131000-0x00000000a7276000) (1MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem46: type=7, attr=0xf, range=[0x00000000a7276000-0x00000000a7278000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem47: type=4, attr=0xf, range=[0x00000000a7278000-0x00000000a72a1000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem48: type=7, attr=0xf, range=[0x00000000a72a1000-0x00000000a72a4000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem49: type=4, attr=0xf, range=[0x00000000a72a4000-0x00000000a72d5000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem50: type=7, attr=0xf, range=[0x00000000a72d5000-0x00000000a72dc000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem51: type=4, attr=0xf, range=[0x00000000a72dc000-0x00000000a730d000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem52: type=7, attr=0xf, range=[0x00000000a730d000-0x00000000a7315000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem53: type=4, attr=0xf, range=[0x00000000a7315000-0x00000000a733d000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem54: type=7, attr=0xf, range=[0x00000000a733d000-0x00000000a733e000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem55: type=4, attr=0xf, range=[0x00000000a733e000-0x00000000a733f000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem56: type=7, attr=0xf, range=[0x00000000a733f000-0x00000000a7340000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem57: type=4, attr=0xf, range=[0x00000000a7340000-0x00000000a7348000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem58: type=7, attr=0xf, range=[0x00000000a7348000-0x00000000a7349000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem59: type=4, attr=0xf, range=[0x00000000a7349000-0x00000000a7371000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem60: type=7, attr=0xf, range=[0x00000000a7371000-0x00000000a7372000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem61: type=4, attr=0xf, range=[0x00000000a7372000-0x00000000a76d4000) (3MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem62: type=7, attr=0xf, range=[0x00000000a76d4000-0x00000000a76d7000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem63: type=4, attr=0xf, range=[0x00000000a76d7000-0x00000000a76d8000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem64: type=7, attr=0xf, range=[0x00000000a76d8000-0x00000000a76d9000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem65: type=4, attr=0xf, range=[0x00000000a76d9000-0x00000000a76da000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem66: type=7, attr=0xf, range=[0x00000000a76da000-0x00000000a76db000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem67: type=4, attr=0xf, range=[0x00000000a76db000-0x00000000a76fb000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem68: type=7, attr=0xf, range=[0x00000000a76fb000-0x00000000a76fd000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem69: type=4, attr=0xf, range=[0x00000000a76fd000-0x00000000a95bf000) (30MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem70: type=7, attr=0xf, range=[0x00000000a95bf000-0x00000000a9963000) (3MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem71: type=3, attr=0xf, range=[0x00000000a9963000-0x00000000a9dbf000) (4MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem72: type=5, attr=0x800000000000000f, range=[0x00000000a9dbf000-0x00000000aa1bf000) (4MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem73: type=6, attr=0x800000000000000f, range=[0x00000000aa1bf000-0x00000000aa3bf000) (2MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem74: type=0, attr=0xf, range=[0x00000000aa3bf000-0x00000000aaebf000) (11MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem75: type=10, attr=0xf, range=[0x00000000aaebf000-0x00000000aafbf000) (1MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem76: type=9, attr=0xf, range=[0x00000000aafbf000-0x00000000aafff000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem77: type=4, attr=0xf, range=[0x00000000aafff000-0x00000000ab000000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem78: type=7, attr=0xf, range=[0x0000000100000000-0x000000024f600000) (5366MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem79: type=0, attr=0x0, range=[0x00000000000a0000-0x00000000000c0000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem80: type=0, attr=0x0, range=[0x00000000ab000000-0x00000000afa00000) (74MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem81: type=11, attr=0x8000000000000001, range=[0x00000000e0000000-0x00000000f0000000) (256MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem82: type=11, attr=0x8000000000000001, range=[0x00000000feb00000-0x00000000feb04000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem83: type=11, attr=0x8000000000000001, range=[0x00000000fec00000-0x00000000fec01000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem84: type=11, attr=0x8000000000000001, range=[0x00000000fed10000-0x00000000fed1a000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem85: type=11, attr=0x8000000000000001, range=[0x00000000fed1c000-0x00000000fed20000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem86: type=11, attr=0x8000000000000001, range=[0x00000000fee00000-0x00000000fee01000) (0MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] efi: mem87: type=11, attr=0x8000000000000000, range=[0x00000000ffb00000-0x0000000100000000) (5MB)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] SMBIOS 2.7 present.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] DMI: Hewlett-Packard HP ENVY 15 Notebook PC/1960, BIOS F.35 10/03/2013
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] No AGP bridge found
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: last_pfn = 0x24f600 max_arch_pfn = 0x400000000
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] MTRR default type: uncachable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] MTRR fixed ranges enabled:
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   00000-9FFFF write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   A0000-BFFFF uncachable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   C0000-E7FFF write-protect
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   E8000-EFFFF write-combining
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   F0000-FFFFF write-protect
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] MTRR variable ranges enabled:
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   0 base 000000000 mask F80000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   1 base 080000000 mask FE0000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   2 base 0A0000000 mask FF8000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   3 base 0A8000000 mask FFE000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   4 base 0AA000000 mask FFF000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   5 base 0FF800000 mask FFF800000 write-protect
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   6 base 100000000 mask F00000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   7 base 200000000 mask F80000000 write-back
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   8 base 24F600000 mask FFFE00000 uncachable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   9 base 24F800000 mask FFF800000 uncachable
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: last_pfn = 0xab000 max_arch_pfn = 0x400000000
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Scanning 2 areas for low memory corruption
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Base memory trampoline at [ffff880000082000] 82000 size 24576
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x00000000-0x000fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x00000000-0x000fffff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BRK [0x01fd1000, 0x01fd1fff] PGTABLE
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BRK [0x01fd2000, 0x01fd2fff] PGTABLE
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BRK [0x01fd3000, 0x01fd3fff] PGTABLE
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x24f400000-0x24f5fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x24f400000-0x24f5fffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BRK [0x01fd4000, 0x01fd4fff] PGTABLE
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x24c000000-0x24f3fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x24c000000-0x24f3fffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x200000000-0x24bffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x200000000-0x24bffffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BRK [0x01fd5000, 0x01fd5fff] PGTABLE
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x00100000-0x1fffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x00100000-0x001fffff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x00200000-0x1fffffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x20200000-0x40003fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x20200000-0x3fffffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x40000000-0x40003fff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] BRK [0x01fd6000, 0x01fd6fff] PGTABLE
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x40005000-0xa9dbefff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x40005000-0x401fffff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x40200000-0xa9bfffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0xa9c00000-0xa9dbefff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0xaafff000-0xaaffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0xaafff000-0xaaffffff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] init_memory_mapping: [mem 0x100000000-0x1ffffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [mem 0x100000000-0x1ffffffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] RAMDISK: [mem 0x3e7c7000-0x3fffafff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: RSDP 00000000aaffe014 00024 (v02 HPQOEM)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: XSDT 00000000aaffe210 000A4 (v01 HPQOEM SLIC-MPC 00000001 HP   01000013)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: FACP 00000000aaffb000 0010C (v05 HPQOEM SLIC-MPC 00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: DSDT 00000000aafe7000 10C65 (v01 HPQOEM 1960     00000000 ACPI 00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: FACS 00000000aafba000 00040
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: UEFI 00000000aaffd000 00236 (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: ASF! 00000000aaffc000 000A5 (v32 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: HPET 00000000aaffa000 00038 (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: APIC 00000000aaff9000 0008C (v03 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: MCFG 00000000aaff8000 0003C (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: SSDT 00000000aafe5000 01066 (v01 HPQOEM 1960     00001000 ACPI 00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: BOOT 00000000aafe3000 00028 (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: SSDT 00000000aafe2000 00486 (v01 HPQOEM 1960     00001000 ACPI 00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: ASPT 00000000aafe0000 00034 (v07 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: DBGP 00000000aafdf000 00034 (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: FPDT 00000000aafdd000 00044 (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: MSDM 00000000aafdc000 00055 (v03 HPQOEM SLIC-MPC 00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: SSDT 00000000aafdb000 009AA (v01 HPQOEM 1960     00003000 ACPI 00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: SSDT 00000000aafda000 00B22 (v01 HPQOEM 1960     00003000 ACPI 00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: BGRT 00000000aafd9000 00038 (v01 HPQOEM 1960     00000001 HP   00040000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] No NUMA configuration found
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Faking a node at [mem 0x0000000000000000-0x000000024f5fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Initmem setup node 0 [mem 0x00000000-0x24f5fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   NODE_DATA [mem 0x24f5f3000-0x24f5f7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]  [ffffea0000000000-ffffea00093fffff] PMD -> [ffff880246c00000-ffff88024ebfffff] on node 0
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Zone ranges:
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA      [mem 0x00001000-0x00ffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA32    [mem 0x01000000-0xffffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   Normal   [mem 0x100000000-0x24f5fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Movable zone start for each node
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Early memory node ranges
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   node   0: [mem 0x00001000-0x00087fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   node   0: [mem 0x00100000-0x1fffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   node   0: [mem 0x20200000-0x40003fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   node   0: [mem 0x40005000-0xa9dbefff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   node   0: [mem 0xaafff000-0xaaffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   node   0: [mem 0x100000000-0x24f5fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] On node 0 totalpages: 2068806
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA zone: 64 pages used for memmap
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA zone: 22 pages reserved
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA zone: 3975 pages, LIFO batch:0
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA32 zone: 10799 pages used for memmap
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   DMA32 zone: 691135 pages, LIFO batch:31
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   Normal zone: 21464 pages used for memmap
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000]   Normal zone: 1373696 pages, LIFO batch:31
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] tboot: non-0 tboot_addr but it is not of type E820_RESERVED
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x01] enabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x02] enabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x04] lapic_id[0x03] enabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x05] lapic_id[0x00] disabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x06] lapic_id[0x00] disabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x07] lapic_id[0x00] disabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x08] lapic_id[0x00] disabled)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: IOAPIC (id[0x00] address[0xfec00000] gsi_base[0])
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] IOAPIC[0]: apic_id 0, version 32, address 0xfec00000, GSI 0-23
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: IRQ2 used by override.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] nr_irqs_gsi: 40
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00088000-0x000bffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000c0000-0x000fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0x20000000-0x201fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0x40004000-0x40004fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xa004d000-0xa004dfff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xa005d000-0xa005dfff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xa9dbf000-0xaaebefff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xaaebf000-0xaafbefff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xaafbf000-0xaaffefff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xab000000-0xaf9fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xafa00000-0xdfffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xe0000000-0xefffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xf0000000-0xfeafffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfeb00000-0xfeb03fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfeb04000-0xfebfffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec01000-0xfed0ffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed10000-0xfed19fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed1a000-0xfed1bfff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed1c000-0xfed1ffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed20000-0xfedfffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfee00000-0xfee00fff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfee01000-0xffafffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PM: Registered nosave memory: [mem 0xffb00000-0xffffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] e820: [mem 0xafa00000-0xdfffffff] available for PCI devices
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Booting paravirtualized kernel on bare hardware
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] setup_percpu: NR_CPUS:256 nr_cpumask_bits:256 nr_cpu_ids:8 nr_node_ids:1
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PERCPU: Embedded 29 pages/cpu @ffff88024f200000 s86720 r8192 d23872 u262144
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] pcpu-alloc: s86720 r8192 d23872 u262144 alloc=1*2097152
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] pcpu-alloc: [0] 0 1 2 3 4 5 6 7 
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 2036457
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Policy zone: Normal
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.11.0-18-generic.efi.signed root=UUID=3ef175d1-fafa-4e94-9a9a-62ee335a63c1 ro quiet splash vt.handoff=7
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] xsave: enabled xstate_bv 0x7, cntxt size 0x340
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Checking aperture...
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] No AGP bridge found
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Memory: 7966208K/8275224K available (7154K kernel code, 1083K rwdata, 3312K rodata, 1364K init, 1420K bss, 309016K reserved)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=8, Nodes=1
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Hierarchical RCU implementation.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=256 to nr_cpu_ids=8.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] 	Offload RCU callbacks from all CPUs
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] 	Offload RCU callbacks from CPUs: 0-255.
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] NR_IRQS:16640 nr_irqs:744 16
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] Console: colour dummy device 80x25
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] console [tty0] enabled
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] allocated 33554432 bytes of page_cgroup
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] hpet clockevent registered
+Mar 14 01:08:05 ihartlinux kernel: [    0.000000] tsc: Fast TSC calibration using PIT
+Mar 14 01:08:05 ihartlinux kernel: [    0.004000] tsc: Detected 2594.204 MHz processor
+Mar 14 01:08:05 ihartlinux kernel: [    0.000002] Calibrating delay loop (skipped), value calculated using timer frequency.. 5188.40 BogoMIPS (lpj=10376816)
+Mar 14 01:08:05 ihartlinux kernel: [    0.000004] pid_max: default: 32768 minimum: 301
+Mar 14 01:08:05 ihartlinux kernel: [    0.000017] init_memory_mapping: [mem 0xa9dbf000-0xaa1befff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000018]  [mem 0xa9dbf000-0xa9dfffff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000019]  [mem 0xa9e00000-0xa9ffffff] page 2M
+Mar 14 01:08:05 ihartlinux kernel: [    0.000020]  [mem 0xaa000000-0xaa1befff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.000041] init_memory_mapping: [mem 0xaa1bf000-0xaa3befff]
+Mar 14 01:08:05 ihartlinux kernel: [    0.000041]  [mem 0xaa1bf000-0xaa3befff] page 4k
+Mar 14 01:08:05 ihartlinux kernel: [    0.044444] Security Framework initialized
+Mar 14 01:08:05 ihartlinux kernel: [    0.044463] AppArmor: AppArmor initialized
+Mar 14 01:08:05 ihartlinux kernel: [    0.044464] Yama: becoming mindful.
+Mar 14 01:08:05 ihartlinux kernel: [    0.044896] Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    0.046770] Inode-cache hash table entries: 524288 (order: 10, 4194304 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    0.047596] Mount-cache hash table entries: 256
+Mar 14 01:08:05 ihartlinux kernel: [    0.047743] Initializing cgroup subsys memory
+Mar 14 01:08:05 ihartlinux kernel: [    0.047750] Initializing cgroup subsys devices
+Mar 14 01:08:05 ihartlinux kernel: [    0.047751] Initializing cgroup subsys freezer
+Mar 14 01:08:05 ihartlinux kernel: [    0.047752] Initializing cgroup subsys blkio
+Mar 14 01:08:05 ihartlinux kernel: [    0.047754] Initializing cgroup subsys perf_event
+Mar 14 01:08:05 ihartlinux kernel: [    0.047756] Initializing cgroup subsys hugetlb
+Mar 14 01:08:05 ihartlinux kernel: [    0.047773] CPU: Physical Processor ID: 0
+Mar 14 01:08:05 ihartlinux kernel: [    0.047774] CPU: Processor Core ID: 0
+Mar 14 01:08:05 ihartlinux kernel: [    0.047778] ENERGY_PERF_BIAS: Set to 'normal', was 'performance'
+Mar 14 01:08:05 ihartlinux kernel: [    0.047778] ENERGY_PERF_BIAS: View and update with x86_energy_perf_policy(8)
+Mar 14 01:08:05 ihartlinux kernel: [    0.048123] mce: CPU supports 7 MCE banks
+Mar 14 01:08:05 ihartlinux kernel: [    0.048133] CPU0: Thermal monitoring enabled (TM1)
+Mar 14 01:08:05 ihartlinux kernel: [    0.048140] Last level iTLB entries: 4KB 512, 2MB 0, 4MB 0
+Mar 14 01:08:05 ihartlinux kernel: [    0.048140] Last level dTLB entries: 4KB 512, 2MB 32, 4MB 32
+Mar 14 01:08:05 ihartlinux kernel: [    0.048140] tlb_flushall_shift: 1
+Mar 14 01:08:05 ihartlinux kernel: [    0.048255] Freeing SMP alternatives memory: 28K (ffffffff81e65000 - ffffffff81e6c000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.050225] ACPI: Core revision 20130517
+Mar 14 01:08:05 ihartlinux kernel: [    0.056201] ACPI: All ACPI Tables successfully acquired
+Mar 14 01:08:05 ihartlinux kernel: [    0.092401] ftrace: allocating 27858 entries in 109 pages
+Mar 14 01:08:05 ihartlinux kernel: [    0.105092] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Mar 14 01:08:05 ihartlinux kernel: [    0.144808] smpboot: CPU0: Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (fam: 06, model: 3a, stepping: 09)
+Mar 14 01:08:05 ihartlinux kernel: [    0.144816] TSC deadline timer enabled
+Mar 14 01:08:05 ihartlinux kernel: [    0.144826] Performance Events: PEBS fmt1+, 16-deep LBR, IvyBridge events, full-width counters, Intel PMU driver.
+Mar 14 01:08:05 ihartlinux kernel: [    0.144832] ... version:                3
+Mar 14 01:08:05 ihartlinux kernel: [    0.144833] ... bit width:              48
+Mar 14 01:08:05 ihartlinux kernel: [    0.144834] ... generic registers:      4
+Mar 14 01:08:05 ihartlinux kernel: [    0.144835] ... value mask:             0000ffffffffffff
+Mar 14 01:08:05 ihartlinux kernel: [    0.144836] ... max period:             0000ffffffffffff
+Mar 14 01:08:05 ihartlinux kernel: [    0.144837] ... fixed-purpose events:   3
+Mar 14 01:08:05 ihartlinux kernel: [    0.144837] ... event mask:             000000070000000f
+Mar 14 01:08:05 ihartlinux kernel: [    0.159587] NMI watchdog: enabled on all CPUs, permanently consumes one hw-PMU counter.
+Mar 14 01:08:05 ihartlinux kernel: [    0.146168] smpboot: Booting Node   0, Processors  #1 #2 #3
+Mar 14 01:08:05 ihartlinux kernel: [    0.186645] Brought up 4 CPUs
+Mar 14 01:08:05 ihartlinux kernel: [    0.186649] smpboot: Total of 4 processors activated (20753.63 BogoMIPS)
+Mar 14 01:08:05 ihartlinux kernel: [    0.189670] devtmpfs: initialized
+Mar 14 01:08:05 ihartlinux kernel: [    0.190586] EVM: security.selinux
+Mar 14 01:08:05 ihartlinux kernel: [    0.190588] EVM: security.SMACK64
+Mar 14 01:08:05 ihartlinux kernel: [    0.190588] EVM: security.capability
+Mar 14 01:08:05 ihartlinux kernel: [    0.190634] PM: Registering ACPI NVS region [mem 0xaaebf000-0xaafbefff] (1048576 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    0.191359] regulator-dummy: no parameters
+Mar 14 01:08:05 ihartlinux kernel: [    0.191405] RTC time:  8:07:44, date: 03/14/14
+Mar 14 01:08:05 ihartlinux kernel: [    0.191433] NET: Registered protocol family 16
+Mar 14 01:08:05 ihartlinux kernel: [    0.191546] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 14 01:08:05 ihartlinux kernel: [    0.191548] ACPI: bus type PCI registered
+Mar 14 01:08:05 ihartlinux kernel: [    0.191550] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 14 01:08:05 ihartlinux kernel: [    0.191599] PCI: MMCONFIG for domain 0000 [bus 00-ff] at [mem 0xe0000000-0xefffffff] (base 0xe0000000)
+Mar 14 01:08:05 ihartlinux kernel: [    0.191601] PCI: MMCONFIG at [mem 0xe0000000-0xefffffff] reserved in E820
+Mar 14 01:08:05 ihartlinux kernel: [    0.214961] PCI: Using configuration type 1 for base access
+Mar 14 01:08:05 ihartlinux kernel: [    0.215696] bio: create slab <bio-0> at 0
+Mar 14 01:08:05 ihartlinux kernel: [    0.215815] ACPI: Added _OSI(Module Device)
+Mar 14 01:08:05 ihartlinux kernel: [    0.215817] ACPI: Added _OSI(Processor Device)
+Mar 14 01:08:05 ihartlinux kernel: [    0.215818] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 14 01:08:05 ihartlinux kernel: [    0.215819] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 14 01:08:05 ihartlinux kernel: [    0.217166] ACPI: EC: Look up EC in DSDT
+Mar 14 01:08:05 ihartlinux kernel: [    0.218472] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 14 01:08:05 ihartlinux kernel: [    0.222750] [Firmware Bug]: ACPI: BIOS _OSI(Linux) query ignored
+Mar 14 01:08:05 ihartlinux kernel: [    0.324687] ACPI: SSDT 00000000aae19018 0083B (v01  PmRef  Cpu0Cst 00003001 INTL 20130117)
+Mar 14 01:08:05 ihartlinux kernel: [    0.325033] ACPI: Dynamic OEM Table Load:
+Mar 14 01:08:05 ihartlinux kernel: [    0.325035] ACPI: SSDT           (null) 0083B (v01  PmRef  Cpu0Cst 00003001 INTL 20130117)
+Mar 14 01:08:05 ihartlinux kernel: [    0.329498] ACPI: SSDT 00000000aae5ba98 00303 (v01  PmRef    ApIst 00003000 INTL 20130117)
+Mar 14 01:08:05 ihartlinux kernel: [    0.329869] ACPI: Dynamic OEM Table Load:
+Mar 14 01:08:05 ihartlinux kernel: [    0.329870] ACPI: SSDT           (null) 00303 (v01  PmRef    ApIst 00003000 INTL 20130117)
+Mar 14 01:08:05 ihartlinux kernel: [    0.333390] ACPI: SSDT 00000000aae18d98 00119 (v01  PmRef    ApCst 00003000 INTL 20130117)
+Mar 14 01:08:05 ihartlinux kernel: [    0.333732] ACPI: Dynamic OEM Table Load:
+Mar 14 01:08:05 ihartlinux kernel: [    0.333734] ACPI: SSDT           (null) 00119 (v01  PmRef    ApCst 00003000 INTL 20130117)
+Mar 14 01:08:05 ihartlinux kernel: [    1.267232] ACPI: Interpreter enabled
+Mar 14 01:08:05 ihartlinux kernel: [    1.267239] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S1_] (20130517/hwxface-571)
+Mar 14 01:08:05 ihartlinux kernel: [    1.267243] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S2_] (20130517/hwxface-571)
+Mar 14 01:08:05 ihartlinux kernel: [    1.267258] ACPI: (supports S0 S3 S4 S5)
+Mar 14 01:08:05 ihartlinux kernel: [    1.267259] ACPI: Using IOAPIC for interrupt routing
+Mar 14 01:08:05 ihartlinux kernel: [    1.267284] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 14 01:08:05 ihartlinux kernel: [    1.267382] ACPI: No dock devices found.
+Mar 14 01:08:05 ihartlinux kernel: [    1.272285] ACPI: Power Resource [FN00] (on)
+Mar 14 01:08:05 ihartlinux kernel: [    1.272782] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 14 01:08:05 ihartlinux kernel: [    1.272841] \_SB_.PCI0:_OSC invalid UUID
+Mar 14 01:08:05 ihartlinux kernel: [    1.272842] _OSC request data:1 8 0 
+Mar 14 01:08:05 ihartlinux kernel: [    1.272881] \_SB_.PCI0:_OSC invalid UUID
+Mar 14 01:08:05 ihartlinux kernel: [    1.272882] _OSC request data:1 1f 0 
+Mar 14 01:08:05 ihartlinux kernel: [    1.272885] acpi PNP0A08:00: ACPI _OSC support notification failed, disabling PCIe ASPM
+Mar 14 01:08:05 ihartlinux kernel: [    1.272886] acpi PNP0A08:00: Unable to request _OSC control (_OSC support mask: 0x08)
+Mar 14 01:08:05 ihartlinux kernel: [    1.273193] PCI host bridge to bus 0000:00
+Mar 14 01:08:05 ihartlinux kernel: [    1.273195] pci_bus 0000:00: root bus resource [bus 00-fe]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273197] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273198] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273200] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273201] pci_bus 0000:00: root bus resource [mem 0x000c0000-0x000c3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273203] pci_bus 0000:00: root bus resource [mem 0x000c4000-0x000c7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273204] pci_bus 0000:00: root bus resource [mem 0x000c8000-0x000cbfff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273205] pci_bus 0000:00: root bus resource [mem 0x000cc000-0x000cffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273207] pci_bus 0000:00: root bus resource [mem 0x000d0000-0x000d3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273209] pci_bus 0000:00: root bus resource [mem 0x000d4000-0x000d7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273211] pci_bus 0000:00: root bus resource [mem 0x000d8000-0x000dbfff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273212] pci_bus 0000:00: root bus resource [mem 0x000dc000-0x000dffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273213] pci_bus 0000:00: root bus resource [mem 0x000e0000-0x000e3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273215] pci_bus 0000:00: root bus resource [mem 0x000e4000-0x000e7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273216] pci_bus 0000:00: root bus resource [mem 0x000e8000-0x000ebfff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273217] pci_bus 0000:00: root bus resource [mem 0x000ec000-0x000effff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273219] pci_bus 0000:00: root bus resource [mem 0x000f0000-0x000fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273220] pci_bus 0000:00: root bus resource [mem 0xafa00000-0xfeafffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273227] pci 0000:00:00.0: [8086:0154] type 00 class 0x060000
+Mar 14 01:08:05 ihartlinux kernel: [    1.273306] pci 0000:00:02.0: [8086:0166] type 00 class 0x030000
+Mar 14 01:08:05 ihartlinux kernel: [    1.273317] pci 0000:00:02.0: reg 0x10: [mem 0xc2000000-0xc23fffff 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273323] pci 0000:00:02.0: reg 0x18: [mem 0xb0000000-0xbfffffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273328] pci 0000:00:02.0: reg 0x20: [io  0x5000-0x503f]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273419] pci 0000:00:14.0: [8086:1e31] type 00 class 0x0c0330
+Mar 14 01:08:05 ihartlinux kernel: [    1.273442] pci 0000:00:14.0: reg 0x10: [mem 0xc2700000-0xc270ffff 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273513] pci 0000:00:14.0: PME# supported from D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.273553] pci 0000:00:14.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.273585] pci 0000:00:16.0: [8086:1e3a] type 00 class 0x078000
+Mar 14 01:08:05 ihartlinux kernel: [    1.273607] pci 0000:00:16.0: reg 0x10: [mem 0xc2714000-0xc271400f 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273682] pci 0000:00:16.0: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.273758] pci 0000:00:1a.0: [8086:1e2d] type 00 class 0x0c0320
+Mar 14 01:08:05 ihartlinux kernel: [    1.273779] pci 0000:00:1a.0: reg 0x10: [mem 0xc2719000-0xc27193ff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.273869] pci 0000:00:1a.0: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.273922] pci 0000:00:1a.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.273952] pci 0000:00:1b.0: [8086:1e20] type 00 class 0x040300
+Mar 14 01:08:05 ihartlinux kernel: [    1.273967] pci 0000:00:1b.0: reg 0x10: [mem 0xc2710000-0xc2713fff 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274034] pci 0000:00:1b.0: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.274076] pci 0000:00:1b.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.274103] pci 0000:00:1c.0: [8086:1e10] type 01 class 0x060400
+Mar 14 01:08:05 ihartlinux kernel: [    1.274182] pci 0000:00:1c.0: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.274226] pci 0000:00:1c.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.274255] pci 0000:00:1c.2: [8086:1e14] type 01 class 0x060400
+Mar 14 01:08:05 ihartlinux kernel: [    1.274333] pci 0000:00:1c.2: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.274376] pci 0000:00:1c.2: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.274403] pci 0000:00:1c.3: [8086:1e16] type 01 class 0x060400
+Mar 14 01:08:05 ihartlinux kernel: [    1.274479] pci 0000:00:1c.3: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.274523] pci 0000:00:1c.3: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.274559] pci 0000:00:1d.0: [8086:1e26] type 00 class 0x0c0320
+Mar 14 01:08:05 ihartlinux kernel: [    1.274581] pci 0000:00:1d.0: reg 0x10: [mem 0xc2718000-0xc27183ff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274671] pci 0000:00:1d.0: PME# supported from D0 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.274723] pci 0000:00:1d.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.274751] pci 0000:00:1f.0: [8086:1e57] type 00 class 0x060100
+Mar 14 01:08:05 ihartlinux kernel: [    1.274913] pci 0000:00:1f.2: [8086:1e03] type 00 class 0x010601
+Mar 14 01:08:05 ihartlinux kernel: [    1.274932] pci 0000:00:1f.2: reg 0x10: [io  0x5088-0x508f]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274940] pci 0000:00:1f.2: reg 0x14: [io  0x5094-0x5097]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274948] pci 0000:00:1f.2: reg 0x18: [io  0x5080-0x5087]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274956] pci 0000:00:1f.2: reg 0x1c: [io  0x5090-0x5093]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274964] pci 0000:00:1f.2: reg 0x20: [io  0x5060-0x507f]
+Mar 14 01:08:05 ihartlinux kernel: [    1.274973] pci 0000:00:1f.2: reg 0x24: [mem 0xc2717000-0xc27177ff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.275018] pci 0000:00:1f.2: PME# supported from D3hot
+Mar 14 01:08:05 ihartlinux kernel: [    1.275078] pci 0000:00:1f.3: [8086:1e22] type 00 class 0x0c0500
+Mar 14 01:08:05 ihartlinux kernel: [    1.275094] pci 0000:00:1f.3: reg 0x10: [mem 0xc2715000-0xc27150ff 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.275115] pci 0000:00:1f.3: reg 0x20: [io  0x5040-0x505f]
+Mar 14 01:08:05 ihartlinux kernel: [    1.275314] pci 0000:01:00.0: [10ec:8179] type 00 class 0x028000
+Mar 14 01:08:05 ihartlinux kernel: [    1.275342] pci 0000:01:00.0: reg 0x10: [io  0x4000-0x40ff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.275390] pci 0000:01:00.0: reg 0x18: [mem 0xc2600000-0xc2603fff 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.275541] pci 0000:01:00.0: supports D1 D2
+Mar 14 01:08:05 ihartlinux kernel: [    1.275542] pci 0000:01:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.275591] pci 0000:01:00.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.283824] pci 0000:00:1c.0: PCI bridge to [bus 01]
+Mar 14 01:08:05 ihartlinux kernel: [    1.283829] pci 0000:00:1c.0:   bridge window [io  0x4000-0x4fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.283833] pci 0000:00:1c.0:   bridge window [mem 0xc2600000-0xc26fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.283993] pci 0000:02:00.0: [10ec:5229] type 00 class 0xff0000
+Mar 14 01:08:05 ihartlinux kernel: [    1.284053] pci 0000:02:00.0: reg 0x10: [mem 0xc1000000-0xc1000fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.284546] pci 0000:02:00.0: supports D1 D2
+Mar 14 01:08:05 ihartlinux kernel: [    1.284547] pci 0000:02:00.0: PME# supported from D1 D2 D3hot
+Mar 14 01:08:05 ihartlinux kernel: [    1.284628] pci 0000:02:00.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.295769] pci 0000:00:1c.2: PCI bridge to [bus 02-07]
+Mar 14 01:08:05 ihartlinux kernel: [    1.295786] pci 0000:00:1c.2:   bridge window [io  0x3000-0x3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.295790] pci 0000:00:1c.2:   bridge window [mem 0xc1000000-0xc1ffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.295796] pci 0000:00:1c.2:   bridge window [mem 0xc0000000-0xc0ffffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.295878] pci 0000:08:00.0: [10ec:8168] type 00 class 0x020000
+Mar 14 01:08:05 ihartlinux kernel: [    1.295898] pci 0000:08:00.0: reg 0x10: [io  0x2000-0x20ff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.295932] pci 0000:08:00.0: reg 0x18: [mem 0xc2500000-0xc2500fff 64bit]
+Mar 14 01:08:05 ihartlinux kernel: [    1.295954] pci 0000:08:00.0: reg 0x20: [mem 0xc2400000-0xc2403fff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.296047] pci 0000:08:00.0: supports D1 D2
+Mar 14 01:08:05 ihartlinux kernel: [    1.296048] pci 0000:08:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+Mar 14 01:08:05 ihartlinux kernel: [    1.296089] pci 0000:08:00.0: System wakeup disabled by ACPI
+Mar 14 01:08:05 ihartlinux kernel: [    1.307742] pci 0000:00:1c.3: PCI bridge to [bus 08]
+Mar 14 01:08:05 ihartlinux kernel: [    1.307750] pci 0000:00:1c.3:   bridge window [io  0x2000-0x2fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.307757] pci 0000:00:1c.3:   bridge window [mem 0xc2500000-0xc25fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.307768] pci 0000:00:1c.3:   bridge window [mem 0xc2400000-0xc24fffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.308166] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308212] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308255] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308298] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308342] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308384] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308427] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308470] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 14 01:08:05 ihartlinux kernel: [    1.308787] ACPI: Enabled 5 GPEs in block 00 to 3F
+Mar 14 01:08:05 ihartlinux kernel: [    1.308792] ACPI: \_SB_.PCI0: notify handler is installed
+Mar 14 01:08:05 ihartlinux kernel: [    1.308860] Found 1 acpi root devices
+Mar 14 01:08:05 ihartlinux kernel: [    1.308981] ACPI: EC: GPE = 0x17, I/O: command/status = 0x66, data = 0x62
+Mar 14 01:08:05 ihartlinux kernel: [    1.309055] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Mar 14 01:08:05 ihartlinux kernel: [    1.309058] vgaarb: loaded
+Mar 14 01:08:05 ihartlinux kernel: [    1.309058] vgaarb: bridge control possible 0000:00:02.0
+Mar 14 01:08:05 ihartlinux kernel: [    1.309182] SCSI subsystem initialized
+Mar 14 01:08:05 ihartlinux kernel: [    1.309184] ACPI: bus type ATA registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.309225] libata version 3.00 loaded.
+Mar 14 01:08:05 ihartlinux kernel: [    1.309249] ACPI: bus type USB registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.309262] usbcore: registered new interface driver usbfs
+Mar 14 01:08:05 ihartlinux kernel: [    1.309269] usbcore: registered new interface driver hub
+Mar 14 01:08:05 ihartlinux kernel: [    1.309290] usbcore: registered new device driver usb
+Mar 14 01:08:05 ihartlinux kernel: [    1.309374] PCI: Using ACPI for IRQ routing
+Mar 14 01:08:05 ihartlinux kernel: [    1.316682] PCI: pci_cache_line_size set to 64 bytes
+Mar 14 01:08:05 ihartlinux kernel: [    1.316765] e820: reserve RAM buffer [mem 0x00088000-0x0008ffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.316767] e820: reserve RAM buffer [mem 0x40004000-0x43ffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.316768] e820: reserve RAM buffer [mem 0xa004d018-0xa3ffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.316769] e820: reserve RAM buffer [mem 0xa9dbf000-0xabffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.316771] e820: reserve RAM buffer [mem 0xab000000-0xabffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.316772] e820: reserve RAM buffer [mem 0x24f600000-0x24fffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.316843] NetLabel: Initializing
+Mar 14 01:08:05 ihartlinux kernel: [    1.316844] NetLabel:  domain hash size = 128
+Mar 14 01:08:05 ihartlinux kernel: [    1.316844] NetLabel:  protocols = UNLABELED CIPSOv4
+Mar 14 01:08:05 ihartlinux kernel: [    1.316852] NetLabel:  unlabeled traffic allowed by default
+Mar 14 01:08:05 ihartlinux kernel: [    1.316903] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0
+Mar 14 01:08:05 ihartlinux kernel: [    1.316908] hpet0: 8 comparators, 64-bit 14.318180 MHz counter
+Mar 14 01:08:05 ihartlinux kernel: [    1.318929] Switched to clocksource hpet
+Mar 14 01:08:05 ihartlinux kernel: [    1.322633] AppArmor: AppArmor Filesystem Enabled
+Mar 14 01:08:05 ihartlinux kernel: [    1.322654] pnp: PnP ACPI init
+Mar 14 01:08:05 ihartlinux kernel: [    1.322665] ACPI: bus type PNP registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.322712] pnp 00:00: [dma 4]
+Mar 14 01:08:05 ihartlinux kernel: [    1.322731] pnp 00:00: Plug and Play ACPI device, IDs PNP0200 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.322747] pnp 00:01: Plug and Play ACPI device, IDs INT0800 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.322833] pnp 00:02: Plug and Play ACPI device, IDs PNP0103 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.322858] pnp 00:03: Plug and Play ACPI device, IDs PNP0c04 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.322892] system 00:04: [io  0x0680-0x069f] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322894] system 00:04: [io  0x1000-0x100f] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322896] system 00:04: [io  0xffff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322897] system 00:04: [io  0xffff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322899] system 00:04: [io  0x0400-0x0453] could not be reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322901] system 00:04: [io  0x0458-0x047f] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322902] system 00:04: [io  0x0700-0x077f] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322904] system 00:04: [io  0x0500-0x0501] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322906] system 00:04: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.322927] pnp 00:05: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.322976] system 00:06: [io  0x0454-0x0457] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.322978] system 00:06: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.323002] pnp 00:07: Plug and Play ACPI device, IDs HPQ8001 PNP0303 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.323025] pnp 00:08: Plug and Play ACPI device, IDs SYN1e89 SYN1e00 SYN0002 PNP0f13 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.323052] pnp 00:09: Plug and Play ACPI device, IDs HPQ6007 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.323138] system 00:0a: [mem 0xfed1c000-0xfed1ffff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323140] system 00:0a: [mem 0xfed10000-0xfed17fff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323141] system 00:0a: [mem 0xfed18000-0xfed18fff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323143] system 00:0a: [mem 0xfed19000-0xfed19fff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323145] system 00:0a: [mem 0xe0000000-0xefffffff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323146] system 00:0a: [mem 0xfed20000-0xfed3ffff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323148] system 00:0a: [mem 0xfed90000-0xfed93fff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323150] system 00:0a: [mem 0xff000000-0xffffffff] could not be reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323151] system 00:0a: [mem 0xfee00000-0xfeefffff] could not be reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323153] system 00:0a: [mem 0xafa00000-0xafa00fff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323155] system 00:0a: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.323412] system 00:0b: [mem 0x20000000-0x201fffff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323414] system 00:0b: [mem 0x40004000-0x40004fff] has been reserved
+Mar 14 01:08:05 ihartlinux kernel: [    1.323416] system 00:0b: Plug and Play ACPI device, IDs PNP0c01 (active)
+Mar 14 01:08:05 ihartlinux kernel: [    1.323433] pnp: PnP ACPI: found 12 devices
+Mar 14 01:08:05 ihartlinux kernel: [    1.323434] ACPI: bus type PNP unregistered
+Mar 14 01:08:05 ihartlinux kernel: [    1.329633] pci 0000:00:1c.0: PCI bridge to [bus 01]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329637] pci 0000:00:1c.0:   bridge window [io  0x4000-0x4fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329642] pci 0000:00:1c.0:   bridge window [mem 0xc2600000-0xc26fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329651] pci 0000:00:1c.2: PCI bridge to [bus 02-07]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329653] pci 0000:00:1c.2:   bridge window [io  0x3000-0x3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329659] pci 0000:00:1c.2:   bridge window [mem 0xc1000000-0xc1ffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329663] pci 0000:00:1c.2:   bridge window [mem 0xc0000000-0xc0ffffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329669] pci 0000:00:1c.3: PCI bridge to [bus 08]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329672] pci 0000:00:1c.3:   bridge window [io  0x2000-0x2fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329677] pci 0000:00:1c.3:   bridge window [mem 0xc2500000-0xc25fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329681] pci 0000:00:1c.3:   bridge window [mem 0xc2400000-0xc24fffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329880] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329882] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329884] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329885] pci_bus 0000:00: resource 7 [mem 0x000c0000-0x000c3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329886] pci_bus 0000:00: resource 8 [mem 0x000c4000-0x000c7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329888] pci_bus 0000:00: resource 9 [mem 0x000c8000-0x000cbfff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329889] pci_bus 0000:00: resource 10 [mem 0x000cc000-0x000cffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329891] pci_bus 0000:00: resource 11 [mem 0x000d0000-0x000d3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329892] pci_bus 0000:00: resource 12 [mem 0x000d4000-0x000d7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329893] pci_bus 0000:00: resource 13 [mem 0x000d8000-0x000dbfff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329895] pci_bus 0000:00: resource 14 [mem 0x000dc000-0x000dffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329896] pci_bus 0000:00: resource 15 [mem 0x000e0000-0x000e3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329898] pci_bus 0000:00: resource 16 [mem 0x000e4000-0x000e7fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329899] pci_bus 0000:00: resource 17 [mem 0x000e8000-0x000ebfff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329901] pci_bus 0000:00: resource 18 [mem 0x000ec000-0x000effff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329902] pci_bus 0000:00: resource 19 [mem 0x000f0000-0x000fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329903] pci_bus 0000:00: resource 20 [mem 0xafa00000-0xfeafffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329905] pci_bus 0000:01: resource 0 [io  0x4000-0x4fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329907] pci_bus 0000:01: resource 1 [mem 0xc2600000-0xc26fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329908] pci_bus 0000:02: resource 0 [io  0x3000-0x3fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329910] pci_bus 0000:02: resource 1 [mem 0xc1000000-0xc1ffffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329911] pci_bus 0000:02: resource 2 [mem 0xc0000000-0xc0ffffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329913] pci_bus 0000:08: resource 0 [io  0x2000-0x2fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329914] pci_bus 0000:08: resource 1 [mem 0xc2500000-0xc25fffff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329916] pci_bus 0000:08: resource 2 [mem 0xc2400000-0xc24fffff 64bit pref]
+Mar 14 01:08:05 ihartlinux kernel: [    1.329940] NET: Registered protocol family 2
+Mar 14 01:08:05 ihartlinux kernel: [    1.330091] TCP established hash table entries: 65536 (order: 8, 1048576 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    1.330255] TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    1.330368] TCP: Hash tables configured (established 65536 bind 65536)
+Mar 14 01:08:05 ihartlinux kernel: [    1.330383] TCP: reno registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.330393] UDP hash table entries: 4096 (order: 5, 131072 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    1.330417] UDP-Lite hash table entries: 4096 (order: 5, 131072 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    1.330479] NET: Registered protocol family 1
+Mar 14 01:08:05 ihartlinux kernel: [    1.330489] pci 0000:00:02.0: Boot video device
+Mar 14 01:08:05 ihartlinux kernel: [    1.363116] PCI: CLS 64 bytes, default 64
+Mar 14 01:08:05 ihartlinux kernel: [    1.363156] Trying to unpack rootfs image as initramfs...
+Mar 14 01:08:05 ihartlinux kernel: [    1.716709] Freeing initrd memory: 24784K (ffff88003e7c7000 - ffff88003fffb000)
+Mar 14 01:08:05 ihartlinux kernel: [    1.716713] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+Mar 14 01:08:05 ihartlinux kernel: [    1.716715] software IO TLB [mem 0xa24c1000-0xa64c1000] (64MB) mapped at [ffff8800a24c1000-ffff8800a64c0fff]
+Mar 14 01:08:05 ihartlinux kernel: [    1.716750] Simple Boot Flag at 0x44 set to 0x1
+Mar 14 01:08:05 ihartlinux kernel: [    1.716895] Scanning for low memory corruption every 60 seconds
+Mar 14 01:08:05 ihartlinux kernel: [    1.717125] Initialise module verification
+Mar 14 01:08:05 ihartlinux kernel: [    1.717156] audit: initializing netlink socket (disabled)
+Mar 14 01:08:05 ihartlinux kernel: [    1.717165] type=2000 audit(1394784465.672:1): initialized
+Mar 14 01:08:05 ihartlinux kernel: [    1.740812] bounce pool size: 64 pages
+Mar 14 01:08:05 ihartlinux kernel: [    1.740820] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Mar 14 01:08:05 ihartlinux kernel: [    1.741756] zbud: loaded
+Mar 14 01:08:05 ihartlinux kernel: [    1.741865] VFS: Disk quotas dquot_6.5.2
+Mar 14 01:08:05 ihartlinux kernel: [    1.741894] Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Mar 14 01:08:05 ihartlinux kernel: [    1.742265] fuse init (API version 7.22)
+Mar 14 01:08:05 ihartlinux kernel: [    1.742323] msgmni has been set to 15743
+Mar 14 01:08:05 ihartlinux kernel: [    1.742715] Key type asymmetric registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.742718] Asymmetric key parser 'x509' registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.742741] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+Mar 14 01:08:05 ihartlinux kernel: [    1.742770] io scheduler noop registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.742772] io scheduler deadline registered (default)
+Mar 14 01:08:05 ihartlinux kernel: [    1.742792] io scheduler cfq registered
+Mar 14 01:08:05 ihartlinux kernel: [    1.742966] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Mar 14 01:08:05 ihartlinux kernel: [    1.742977] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Mar 14 01:08:05 ihartlinux kernel: [    1.743027] efifb: probing for efifb
+Mar 14 01:08:05 ihartlinux kernel: [    1.743459] efifb: framebuffer at 0xb0000000, mapped to 0xffffc90021500000, using 4128k, total 4128k
+Mar 14 01:08:05 ihartlinux kernel: [    1.743461] efifb: mode is 1366x768x32, linelength=5504, pages=1
+Mar 14 01:08:05 ihartlinux kernel: [    1.743462] efifb: scrolling: redraw
+Mar 14 01:08:05 ihartlinux kernel: [    1.743463] efifb: Truecolor: size=8:8:8:8, shift=24:16:8:0
+Mar 14 01:08:05 ihartlinux kernel: [    1.745870] Console: switching to colour frame buffer device 170x48
+Mar 14 01:08:05 ihartlinux kernel: [    1.748134] fb0: EFI VGA frame buffer device
+Mar 14 01:08:05 ihartlinux kernel: [    1.748139] intel_idle: MWAIT substates: 0x21120
+Mar 14 01:08:05 ihartlinux kernel: [    1.748140] intel_idle: v0.4 model 0x3A
+Mar 14 01:08:05 ihartlinux kernel: [    1.748141] intel_idle: lapic_timer_reliable_states 0xffffffff
+Mar 14 01:08:05 ihartlinux kernel: [    1.949123] ACPI: AC Adapter [AC] (on-line)
+Mar 14 01:08:05 ihartlinux kernel: [    1.949213] input: Lid Switch as /devices/LNXSYSTM:00/device:00/PNP0C0D:00/input/input0
+Mar 14 01:08:05 ihartlinux kernel: [    1.951299] ACPI: Lid Switch [LID0]
+Mar 14 01:08:05 ihartlinux kernel: [    1.951330] input: Power Button as /devices/LNXSYSTM:00/device:00/PNP0C0C:00/input/input1
+Mar 14 01:08:05 ihartlinux kernel: [    1.951333] ACPI: Power Button [PWRB]
+Mar 14 01:08:05 ihartlinux kernel: [    1.951366] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input2
+Mar 14 01:08:05 ihartlinux kernel: [    1.951368] ACPI: Power Button [PWRF]
+Mar 14 01:08:05 ihartlinux kernel: [    1.951408] ACPI: Fan [FAN0] (on)
+Mar 14 01:08:05 ihartlinux kernel: [    1.951591] ACPI: Requesting acpi_cpufreq
+Mar 14 01:08:05 ihartlinux kernel: [    1.961100] thermal LNXTHERM:00: registered as thermal_zone0
+Mar 14 01:08:05 ihartlinux kernel: [    1.961102] ACPI: Thermal Zone [TZ00] (44 C)
+Mar 14 01:08:05 ihartlinux kernel: [    1.962388] thermal LNXTHERM:01: registered as thermal_zone1
+Mar 14 01:08:05 ihartlinux kernel: [    1.962389] ACPI: Thermal Zone [TZ01] (0 C)
+Mar 14 01:08:05 ihartlinux kernel: [    1.965162] thermal LNXTHERM:02: registered as thermal_zone2
+Mar 14 01:08:05 ihartlinux kernel: [    1.965163] ACPI: Thermal Zone [TZ02] (32 C)
+Mar 14 01:08:05 ihartlinux kernel: [    1.965195] GHES: HEST is not enabled!
+Mar 14 01:08:05 ihartlinux kernel: [    1.965268] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Mar 14 01:08:05 ihartlinux kernel: [    1.970340] Linux agpgart interface v0.103
+Mar 14 01:08:05 ihartlinux kernel: [    1.971322] brd: module loaded
+Mar 14 01:08:05 ihartlinux kernel: [    1.971849] loop: module loaded
+Mar 14 01:08:05 ihartlinux kernel: [    1.972080] libphy: Fixed MDIO Bus: probed
+Mar 14 01:08:05 ihartlinux kernel: [    1.972138] tun: Universal TUN/TAP device driver, 1.6
+Mar 14 01:08:05 ihartlinux kernel: [    1.972139] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Mar 14 01:08:05 ihartlinux kernel: [    1.972182] PPP generic driver version 2.4.2
+Mar 14 01:08:05 ihartlinux kernel: [    1.972221] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Mar 14 01:08:05 ihartlinux kernel: [    1.972222] ehci-pci: EHCI PCI platform driver
+Mar 14 01:08:05 ihartlinux kernel: [    1.972313] ehci-pci 0000:00:1a.0: setting latency timer to 64
+Mar 14 01:08:05 ihartlinux kernel: [    1.972319] ehci-pci 0000:00:1a.0: EHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    1.972324] ehci-pci 0000:00:1a.0: new USB bus registered, assigned bus number 1
+Mar 14 01:08:05 ihartlinux kernel: [    1.972335] ehci-pci 0000:00:1a.0: debug port 2
+Mar 14 01:08:05 ihartlinux kernel: [    1.976239] ehci-pci 0000:00:1a.0: cache line size of 64 is not supported
+Mar 14 01:08:05 ihartlinux kernel: [    1.976255] ehci-pci 0000:00:1a.0: irq 16, io mem 0xc2719000
+Mar 14 01:08:05 ihartlinux kernel: [    1.977453] ACPI: Battery Slot [BAT0] (battery present)
+Mar 14 01:08:05 ihartlinux kernel: [    1.987381] ehci-pci 0000:00:1a.0: USB 2.0 started, EHCI 1.00
+Mar 14 01:08:05 ihartlinux kernel: [    1.987397] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+Mar 14 01:08:05 ihartlinux kernel: [    1.987399] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar 14 01:08:05 ihartlinux kernel: [    1.987401] usb usb1: Product: EHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    1.987402] usb usb1: Manufacturer: Linux 3.11.0-18-generic ehci_hcd
+Mar 14 01:08:05 ihartlinux kernel: [    1.987403] usb usb1: SerialNumber: 0000:00:1a.0
+Mar 14 01:08:05 ihartlinux kernel: [    1.987486] hub 1-0:1.0: USB hub found
+Mar 14 01:08:05 ihartlinux kernel: [    1.987489] hub 1-0:1.0: 2 ports detected
+Mar 14 01:08:05 ihartlinux kernel: [    1.987641] ehci-pci 0000:00:1d.0: setting latency timer to 64
+Mar 14 01:08:05 ihartlinux kernel: [    1.987647] ehci-pci 0000:00:1d.0: EHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    1.987650] ehci-pci 0000:00:1d.0: new USB bus registered, assigned bus number 2
+Mar 14 01:08:05 ihartlinux kernel: [    1.987661] ehci-pci 0000:00:1d.0: debug port 2
+Mar 14 01:08:05 ihartlinux kernel: [    1.991567] ehci-pci 0000:00:1d.0: cache line size of 64 is not supported
+Mar 14 01:08:05 ihartlinux kernel: [    1.991580] ehci-pci 0000:00:1d.0: irq 20, io mem 0xc2718000
+Mar 14 01:08:05 ihartlinux kernel: [    2.003390] ehci-pci 0000:00:1d.0: USB 2.0 started, EHCI 1.00
+Mar 14 01:08:05 ihartlinux kernel: [    2.003399] usb usb2: New USB device found, idVendor=1d6b, idProduct=0002
+Mar 14 01:08:05 ihartlinux kernel: [    2.003401] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar 14 01:08:05 ihartlinux kernel: [    2.003402] usb usb2: Product: EHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    2.003403] usb usb2: Manufacturer: Linux 3.11.0-18-generic ehci_hcd
+Mar 14 01:08:05 ihartlinux kernel: [    2.003405] usb usb2: SerialNumber: 0000:00:1d.0
+Mar 14 01:08:05 ihartlinux kernel: [    2.003474] hub 2-0:1.0: USB hub found
+Mar 14 01:08:05 ihartlinux kernel: [    2.003478] hub 2-0:1.0: 2 ports detected
+Mar 14 01:08:05 ihartlinux kernel: [    2.003552] ehci-platform: EHCI generic platform driver
+Mar 14 01:08:05 ihartlinux kernel: [    2.003558] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Mar 14 01:08:05 ihartlinux kernel: [    2.003559] ohci-pci: OHCI PCI platform driver
+Mar 14 01:08:05 ihartlinux kernel: [    2.003566] ohci-platform: OHCI generic platform driver
+Mar 14 01:08:05 ihartlinux kernel: [    2.003570] uhci_hcd: USB Universal Host Controller Interface driver
+Mar 14 01:08:05 ihartlinux kernel: [    2.003662] xhci_hcd 0000:00:14.0: setting latency timer to 64
+Mar 14 01:08:05 ihartlinux kernel: [    2.003666] xhci_hcd 0000:00:14.0: xHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    2.003669] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 3
+Mar 14 01:08:05 ihartlinux kernel: [    2.003757] xhci_hcd 0000:00:14.0: cache line size of 64 is not supported
+Mar 14 01:08:05 ihartlinux kernel: [    2.003778] xhci_hcd 0000:00:14.0: irq 40 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [    2.003821] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002
+Mar 14 01:08:05 ihartlinux kernel: [    2.003822] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar 14 01:08:05 ihartlinux kernel: [    2.003824] usb usb3: Product: xHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    2.003825] usb usb3: Manufacturer: Linux 3.11.0-18-generic xhci_hcd
+Mar 14 01:08:05 ihartlinux kernel: [    2.003826] usb usb3: SerialNumber: 0000:00:14.0
+Mar 14 01:08:05 ihartlinux kernel: [    2.003876] xHCI xhci_add_endpoint called for root hub
+Mar 14 01:08:05 ihartlinux kernel: [    2.003877] xHCI xhci_check_bandwidth called for root hub
+Mar 14 01:08:05 ihartlinux kernel: [    2.003892] hub 3-0:1.0: USB hub found
+Mar 14 01:08:05 ihartlinux kernel: [    2.003898] hub 3-0:1.0: 4 ports detected
+Mar 14 01:08:05 ihartlinux kernel: [    2.004146] xhci_hcd 0000:00:14.0: xHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    2.004149] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 4
+Mar 14 01:08:05 ihartlinux kernel: [    2.004165] usb usb4: New USB device found, idVendor=1d6b, idProduct=0003
+Mar 14 01:08:05 ihartlinux kernel: [    2.004166] usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar 14 01:08:05 ihartlinux kernel: [    2.004168] usb usb4: Product: xHCI Host Controller
+Mar 14 01:08:05 ihartlinux kernel: [    2.004169] usb usb4: Manufacturer: Linux 3.11.0-18-generic xhci_hcd
+Mar 14 01:08:05 ihartlinux kernel: [    2.004170] usb usb4: SerialNumber: 0000:00:14.0
+Mar 14 01:08:05 ihartlinux kernel: [    2.004216] xHCI xhci_add_endpoint called for root hub
+Mar 14 01:08:05 ihartlinux kernel: [    2.004217] xHCI xhci_check_bandwidth called for root hub
+Mar 14 01:08:05 ihartlinux kernel: [    2.004230] hub 4-0:1.0: USB hub found
+Mar 14 01:08:05 ihartlinux kernel: [    2.004237] hub 4-0:1.0: 4 ports detected
+Mar 14 01:08:05 ihartlinux kernel: [    2.011434] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:PS2M] at 0x60,0x64 irq 1,12
+Mar 14 01:08:05 ihartlinux kernel: [    2.016135] serio: i8042 KBD port at 0x60,0x64 irq 1
+Mar 14 01:08:05 ihartlinux kernel: [    2.016140] serio: i8042 AUX port at 0x60,0x64 irq 12
+Mar 14 01:08:05 ihartlinux kernel: [    2.016224] mousedev: PS/2 mouse device common for all mice
+Mar 14 01:08:05 ihartlinux kernel: [    2.016340] rtc_cmos 00:05: RTC can wake from S4
+Mar 14 01:08:05 ihartlinux kernel: [    2.016513] rtc_cmos 00:05: rtc core: registered rtc_cmos as rtc0
+Mar 14 01:08:05 ihartlinux kernel: [    2.016552] rtc_cmos 00:05: alarms up to one month, 242 bytes nvram, hpet irqs
+Mar 14 01:08:05 ihartlinux kernel: [    2.016598] device-mapper: uevent: version 1.0.3
+Mar 14 01:08:05 ihartlinux kernel: [    2.016641] device-mapper: ioctl: 4.25.0-ioctl (2013-06-26) initialised: dm-devel@redhat.com
+Mar 14 01:08:05 ihartlinux kernel: [    2.016707] cpuidle: using governor ladder
+Mar 14 01:08:05 ihartlinux kernel: [    2.016798] cpuidle: using governor menu
+Mar 14 01:08:05 ihartlinux kernel: [    2.016808] ledtrig-cpu: registered to indicate activity on CPUs
+Mar 14 01:08:05 ihartlinux kernel: [    2.016809] EFI Variables Facility v0.08 2004-May-17
+Mar 14 01:08:05 ihartlinux kernel: [    2.058783] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input3
+Mar 14 01:08:05 ihartlinux kernel: [    2.299620] usb 1-1: new high-speed USB device number 2 using ehci-pci
+Mar 14 01:08:05 ihartlinux kernel: [    2.452123] usb 1-1: New USB device found, idVendor=8087, idProduct=0024
+Mar 14 01:08:05 ihartlinux kernel: [    2.452126] usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Mar 14 01:08:05 ihartlinux kernel: [    2.452400] hub 1-1:1.0: USB hub found
+Mar 14 01:08:05 ihartlinux kernel: [    2.452498] hub 1-1:1.0: 6 ports detected
+Mar 14 01:08:05 ihartlinux kernel: [    2.563790] usb 2-1: new high-speed USB device number 2 using ehci-pci
+Mar 14 01:08:05 ihartlinux kernel: [    2.708290] usb 2-1: New USB device found, idVendor=8087, idProduct=0024
+Mar 14 01:08:05 ihartlinux kernel: [    2.708292] usb 2-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Mar 14 01:08:05 ihartlinux kernel: [    2.708560] hub 2-1:1.0: USB hub found
+Mar 14 01:08:05 ihartlinux kernel: [    2.708665] hub 2-1:1.0: 8 ports detected
+Mar 14 01:08:05 ihartlinux kernel: [    2.715885] tsc: Refined TSC clocksource calibration: 2594.104 MHz
+Mar 14 01:08:05 ihartlinux kernel: [    2.780096] usb 1-1.3: new high-speed USB device number 3 using ehci-pci
+Mar 14 01:08:05 ihartlinux kernel: [    2.933070] usb 1-1.3: New USB device found, idVendor=05c8, idProduct=0361
+Mar 14 01:08:05 ihartlinux kernel: [    2.933072] usb 1-1.3: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Mar 14 01:08:05 ihartlinux kernel: [    2.933074] usb 1-1.3: Product: HP Truevision HD
+Mar 14 01:08:05 ihartlinux kernel: [    2.933075] usb 1-1.3: Manufacturer: SunplusIT INC.
+Mar 14 01:08:05 ihartlinux kernel: [    2.945802] TCP: cubic registered
+Mar 14 01:08:05 ihartlinux kernel: [    2.945870] NET: Registered protocol family 10
+Mar 14 01:08:05 ihartlinux kernel: [    2.946016] NET: Registered protocol family 17
+Mar 14 01:08:05 ihartlinux kernel: [    2.946022] Key type dns_resolver registered
+Mar 14 01:08:05 ihartlinux kernel: [    2.946509] PM: Hibernation image not present or could not be loaded.
+Mar 14 01:08:05 ihartlinux kernel: [    2.946514] Loading module verification certificates
+Mar 14 01:08:05 ihartlinux kernel: [    2.947267] MODSIGN: Loaded cert 'Magrathea: Glacier signing key: 9d94dc8d073854d044b3fa3652786ac75597c2f5'
+Mar 14 01:08:05 ihartlinux kernel: [    2.947276] registered taskstats version 1
+Mar 14 01:08:05 ihartlinux kernel: [    2.949476] Key type trusted registered
+Mar 14 01:08:05 ihartlinux kernel: [    2.951072] Key type encrypted registered
+Mar 14 01:08:05 ihartlinux kernel: [    2.952560] AppArmor: AppArmor sha1 policy hashing enabled
+Mar 14 01:08:05 ihartlinux kernel: [    2.952965]   Magic number: 6:942:118
+Mar 14 01:08:05 ihartlinux kernel: [    2.953078] rtc_cmos 00:05: setting system clock to 2014-03-14 08:07:47 UTC (1394784467)
+Mar 14 01:08:05 ihartlinux kernel: [    2.953737] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+Mar 14 01:08:05 ihartlinux kernel: [    2.953739] EDD information not available.
+Mar 14 01:08:05 ihartlinux kernel: [    2.954438] Freeing unused kernel memory: 1364K (ffffffff81d10000 - ffffffff81e65000)
+Mar 14 01:08:05 ihartlinux kernel: [    2.954440] Write protecting the kernel read-only data: 12288k
+Mar 14 01:08:05 ihartlinux kernel: [    2.956204] Freeing unused kernel memory: 1028K (ffff8800016ff000 - ffff880001800000)
+Mar 14 01:08:05 ihartlinux kernel: [    2.957434] Freeing unused kernel memory: 784K (ffff880001b3c000 - ffff880001c00000)
+Mar 14 01:08:05 ihartlinux kernel: [    2.985065] wmi: Mapper loaded
+Mar 14 01:08:05 ihartlinux kernel: [    2.986405] rtsx_pci 0000:02:00.0: irq 41 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [    2.986436] rtsx_pci 0000:02:00.0: rtsx_pci_acquire_irq: pcr->msi_en = 1, pci->irq = 41
+Mar 14 01:08:05 ihartlinux kernel: [    2.988414] [drm] Initialized drm 1.1.0 20060810
+Mar 14 01:08:05 ihartlinux kernel: [    2.990151] ahci 0000:00:1f.2: version 3.0
+Mar 14 01:08:05 ihartlinux kernel: [    2.990294] ahci 0000:00:1f.2: irq 42 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [    2.990342] ahci 0000:00:1f.2: AHCI 0001.0300 32 slots 6 ports 6 Gbps 0x1 impl SATA mode
+Mar 14 01:08:05 ihartlinux kernel: [    2.990346] ahci 0000:00:1f.2: flags: 64bit ncq pm led clo pio slum part ems apst 
+Mar 14 01:08:05 ihartlinux kernel: [    2.990351] ahci 0000:00:1f.2: setting latency timer to 64
+Mar 14 01:08:05 ihartlinux kernel: [    2.992253] scsi0 : ahci
+Mar 14 01:08:05 ihartlinux kernel: [    2.992350] scsi1 : ahci
+Mar 14 01:08:05 ihartlinux kernel: [    2.992414] scsi2 : ahci
+Mar 14 01:08:05 ihartlinux kernel: [    2.992592] scsi3 : ahci
+Mar 14 01:08:05 ihartlinux kernel: [    2.992931] r8169 Gigabit Ethernet driver 2.3LK-NAPI loaded
+Mar 14 01:08:05 ihartlinux kernel: [    2.992941] r8169 0000:08:00.0: can't disable ASPM; OS doesn't have ASPM control
+Mar 14 01:08:05 ihartlinux kernel: [    2.998849] scsi4 : ahci
+Mar 14 01:08:05 ihartlinux kernel: [    3.000444] r8169 0000:08:00.0: irq 43 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [    3.000623] r8169 0000:08:00.0 eth0: RTL8168g/8111g at 0xffffc90000066000, 9c:b6:54:c5:47:55, XID 0c000800 IRQ 43
+Mar 14 01:08:05 ihartlinux kernel: [    3.000626] r8169 0000:08:00.0 eth0: jumbo features [frames: 9200 bytes, tx checksumming: ko]
+Mar 14 01:08:05 ihartlinux kernel: [    3.000765] scsi5 : ahci
+Mar 14 01:08:05 ihartlinux kernel: [    3.000839] ata1: SATA max UDMA/133 abar m2048@0xc2717000 port 0xc2717100 irq 42
+Mar 14 01:08:05 ihartlinux kernel: [    3.000841] ata2: DUMMY
+Mar 14 01:08:05 ihartlinux kernel: [    3.000842] ata3: DUMMY
+Mar 14 01:08:05 ihartlinux kernel: [    3.000844] ata4: DUMMY
+Mar 14 01:08:05 ihartlinux kernel: [    3.000845] ata5: DUMMY
+Mar 14 01:08:05 ihartlinux kernel: [    3.000846] ata6: DUMMY
+Mar 14 01:08:05 ihartlinux kernel: [    3.002486] [drm] Memory usable by graphics device = 2048M
+Mar 14 01:08:05 ihartlinux kernel: [    3.002491] checking generic (b0000000 408000) vs hw (b0000000 10000000)
+Mar 14 01:08:05 ihartlinux kernel: [    3.002493] fb: conflicting fb hw usage inteldrmfb vs EFI VGA - removing generic driver
+Mar 14 01:08:05 ihartlinux kernel: [    3.002507] Console: switching to colour dummy device 80x25
+Mar 14 01:08:05 ihartlinux kernel: [    3.002589] i915 0000:00:02.0: setting latency timer to 64
+Mar 14 01:08:05 ihartlinux kernel: [    3.027781] i915 0000:00:02.0: irq 44 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [    3.027789] [drm] Supports vblank timestamp caching Rev 1 (10.10.2010).
+Mar 14 01:08:05 ihartlinux kernel: [    3.027790] [drm] Driver supports precise vblank timestamp query.
+Mar 14 01:08:05 ihartlinux kernel: [    3.027803] ACPI Warning: \_SB_.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Integer], ACPI requires [Package] (20130517/nsarguments-95)
+Mar 14 01:08:05 ihartlinux kernel: [    3.027830] ACPI Warning: \_SB_.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Integer], ACPI requires [Package] (20130517/nsarguments-95)
+Mar 14 01:08:05 ihartlinux kernel: [    3.027878] vgaarb: device changed decodes: PCI:0000:00:02.0,olddecodes=io+mem,decodes=io+mem:owns=io+mem
+Mar 14 01:08:05 ihartlinux kernel: [    3.072305] usb 2-1.8: new full-speed USB device number 3 using ehci-pci
+Mar 14 01:08:05 ihartlinux kernel: [    3.128182] [drm] GMBUS [i915 gmbus vga] timed out, falling back to bit banging on pin 2
+Mar 14 01:08:05 ihartlinux kernel: [    3.145390] fbcon: inteldrmfb (fb0) is primary device
+Mar 14 01:08:05 ihartlinux kernel: [    3.165647] usb 2-1.8: New USB device found, idVendor=138a, idProduct=0050
+Mar 14 01:08:05 ihartlinux kernel: [    3.165650] usb 2-1.8: New USB device strings: Mfr=0, Product=0, SerialNumber=1
+Mar 14 01:08:05 ihartlinux kernel: [    3.165653] usb 2-1.8: SerialNumber: 601100208abe
+Mar 14 01:08:05 ihartlinux kernel: [    3.320340] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Mar 14 01:08:05 ihartlinux kernel: [    3.321019] ata1.00: ATA-9: WDC WD7500BPVX-60JC3T0, 01.01A01, max UDMA/133
+Mar 14 01:08:05 ihartlinux kernel: [    3.321020] ata1.00: 1465149168 sectors, multi 0: LBA48 NCQ (depth 31/32), AA
+Mar 14 01:08:05 ihartlinux kernel: [    3.321721] ata1.00: configured for UDMA/133
+Mar 14 01:08:05 ihartlinux kernel: [    3.321943] scsi 0:0:0:0: Direct-Access     ATA      WDC WD7500BPVX-6 01.0 PQ: 0 ANSI: 5
+Mar 14 01:08:05 ihartlinux kernel: [    3.322122] sd 0:0:0:0: [sda] 1465149168 512-byte logical blocks: (750 GB/698 GiB)
+Mar 14 01:08:05 ihartlinux kernel: [    3.322123] sd 0:0:0:0: [sda] 4096-byte physical blocks
+Mar 14 01:08:05 ihartlinux kernel: [    3.322144] sd 0:0:0:0: Attached scsi generic sg0 type 0
+Mar 14 01:08:05 ihartlinux kernel: [    3.322205] sd 0:0:0:0: [sda] Write Protect is off
+Mar 14 01:08:05 ihartlinux kernel: [    3.322207] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Mar 14 01:08:05 ihartlinux kernel: [    3.322233] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Mar 14 01:08:05 ihartlinux kernel: [    3.457196]  sda: sda1 sda2 sda3
+Mar 14 01:08:05 ihartlinux kernel: [    3.457699] sd 0:0:0:0: [sda] Attached SCSI disk
+Mar 14 01:08:05 ihartlinux kernel: [    3.716586] Switched to clocksource tsc
+Mar 14 01:08:05 ihartlinux kernel: [    3.832778] Console: switching to colour frame buffer device 170x48
+Mar 14 01:08:05 ihartlinux kernel: [    3.834690] i915 0000:00:02.0: fb0: inteldrmfb frame buffer device
+Mar 14 01:08:05 ihartlinux kernel: [    3.834691] i915 0000:00:02.0: registered panic notifier
+Mar 14 01:08:05 ihartlinux kernel: [    3.841375] acpi device:42: registered as cooling_device5
+Mar 14 01:08:05 ihartlinux kernel: [    3.841496] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 14 01:08:05 ihartlinux kernel: [    3.841570] input: Video Bus as /devices/LNXSYSTM:00/device:00/PNP0A08:00/LNXVIDEO:00/input/input4
+Mar 14 01:08:05 ihartlinux kernel: [    3.841632] [drm] Initialized i915 1.6.0 20080730 for 0000:00:02.0 on minor 0
+Mar 14 01:08:05 ihartlinux kernel: [    4.861647] [drm] Enabling RC6 states: RC6 on, RC6p on, RC6pp off
+Mar 14 01:08:05 ihartlinux kernel: [    9.103146] EXT4-fs (sda2): mounted filesystem with ordered data mode. Opts: (null)
+Mar 14 01:08:05 ihartlinux kernel: [   20.030720] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Mar 14 01:08:05 ihartlinux kernel: [   20.045567] EXT4-fs (sda2): re-mounted. Opts: errors=remount-ro
+Mar 14 01:08:05 ihartlinux kernel: [   20.126567] lp: driver loaded but no devices found
+Mar 14 01:08:05 ihartlinux kernel: [   20.146015] hp_accel: laptop model unknown, using default axes configuration
+Mar 14 01:08:05 ihartlinux kernel: [   20.151394] lis3lv02d: 8 bits 3DC sensor found
+Mar 14 01:08:05 ihartlinux kernel: [   20.170734] cfg80211: Calling CRDA to update world regulatory domain
+Mar 14 01:08:05 ihartlinux kernel: [   20.216708] microcode: CPU0 sig=0x306a9, pf=0x10, revision=0x17
+Mar 14 01:08:05 ihartlinux kernel: [   20.254645] mei_me 0000:00:16.0: setting latency timer to 64
+Mar 14 01:08:05 ihartlinux kernel: [   20.254710] mei_me 0000:00:16.0: irq 45 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [   20.260795] ACPI Warning: 0x0000000000000428-0x000000000000042f SystemIO conflicts with Region \PMIO 1 (20130517/utaddress-251)
+Mar 14 01:08:05 ihartlinux kernel: [   20.260801] ACPI Warning: 0x0000000000000428-0x000000000000042f SystemIO conflicts with Region \_SB_.PCI0.LPCB.PMBS 2 (20130517/utaddress-251)
+Mar 14 01:08:05 ihartlinux kernel: [   20.260805] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Mar 14 01:08:05 ihartlinux kernel: [   20.260809] ACPI Warning: 0x0000000000000730-0x000000000000073f SystemIO conflicts with Region \GPIO 1 (20130517/utaddress-251)
+Mar 14 01:08:05 ihartlinux kernel: [   20.260811] ACPI Warning: 0x0000000000000730-0x000000000000073f SystemIO conflicts with Region \_SB_.PCI0.LPCB.GPIO 2 (20130517/utaddress-251)
+Mar 14 01:08:05 ihartlinux kernel: [   20.260814] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Mar 14 01:08:05 ihartlinux kernel: [   20.260816] ACPI Warning: 0x0000000000000700-0x000000000000072f SystemIO conflicts with Region \GPIO 1 (20130517/utaddress-251)
+Mar 14 01:08:05 ihartlinux kernel: [   20.260818] ACPI Warning: 0x0000000000000700-0x000000000000072f SystemIO conflicts with Region \_SB_.PCI0.LPCB.GPIO 2 (20130517/utaddress-251)
+Mar 14 01:08:05 ihartlinux kernel: [   20.260821] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Mar 14 01:08:05 ihartlinux kernel: [   20.260823] lpc_ich: Resource conflict(s) found affecting gpio_ich
+Mar 14 01:08:05 ihartlinux kernel: [   20.261030] snd_hda_intel 0000:00:1b.0: irq 46 for MSI/MSI-X
+Mar 14 01:08:05 ihartlinux kernel: [   20.263297] rtl8188ee: Using firmware rtlwifi/rtl8188efw.bin
+Mar 14 01:08:05 ihartlinux kernel: [   20.278250] mute LED gpio 1 polarity 0
+Mar 14 01:08:05 ihartlinux kernel: [   20.278437] autoconfig: line_outs=1 (0xd/0x0/0x0/0x0/0x0) type:speaker
+Mar 14 01:08:05 ihartlinux kernel: [   20.278438]    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+Mar 14 01:08:05 ihartlinux kernel: [   20.278440]    hp_outs=1 (0xb/0x0/0x0/0x0/0x0)
+Mar 14 01:08:05 ihartlinux kernel: [   20.278441]    mono: mono_out=0x0
+Mar 14 01:08:05 ihartlinux kernel: [   20.278442]    inputs:
+Mar 14 01:08:05 ihartlinux kernel: [   20.278444]      Internal Mic=0x11
+Mar 14 01:08:05 ihartlinux kernel: [   20.278445]      Mic=0xa
+Mar 14 01:08:05 ihartlinux kernel: [   20.300466] input: HDA Intel PCH HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:1b.0/sound/card0/input5
+Mar 14 01:08:05 ihartlinux kernel: [   20.300536] input: HDA Intel PCH Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input6
+Mar 14 01:08:05 ihartlinux kernel: [   20.300591] input: HDA Intel PCH Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input7
+Mar 14 01:08:05 ihartlinux kernel: [   20.391542] input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input8
+Mar 14 01:08:05 ihartlinux kernel: [   20.430804] ieee80211 phy0: Selected rate control algorithm 'rtl_rc'
+Mar 14 01:08:05 ihartlinux kernel: [   20.430979] rtlwifi: wireless switch is on
+Mar 14 01:08:05 ihartlinux kernel: [   20.514204] type=1400 audit(1394784485.046:2): apparmor="STATUS" operation="profile_load" parent=458 profile="unconfined" name="/sbin/dhclient" pid=462 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514210] type=1400 audit(1394784485.046:3): apparmor="STATUS" operation="profile_load" parent=458 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=462 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514213] type=1400 audit(1394784485.046:4): apparmor="STATUS" operation="profile_load" parent=458 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=462 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514220] type=1400 audit(1394784485.046:5): apparmor="STATUS" operation="profile_replace" parent=470 profile="unconfined" name="/sbin/dhclient" pid=471 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514225] type=1400 audit(1394784485.046:6): apparmor="STATUS" operation="profile_replace" parent=470 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=471 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514228] type=1400 audit(1394784485.046:7): apparmor="STATUS" operation="profile_replace" parent=470 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=471 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514612] type=1400 audit(1394784485.046:8): apparmor="STATUS" operation="profile_replace" parent=458 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=462 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514615] type=1400 audit(1394784485.046:9): apparmor="STATUS" operation="profile_replace" parent=458 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=462 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514624] type=1400 audit(1394784485.046:10): apparmor="STATUS" operation="profile_replace" parent=470 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=471 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.514627] type=1400 audit(1394784485.046:11): apparmor="STATUS" operation="profile_replace" parent=470 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=471 comm="apparmor_parser"
+Mar 14 01:08:05 ihartlinux kernel: [   20.529457] Linux video capture interface: v2.00
+Mar 14 01:08:05 ihartlinux kernel: [   20.535050] uvcvideo: Found UVC 1.00 device HP Truevision HD (05c8:0361)
+Mar 14 01:08:05 ihartlinux kernel: [   20.543492] input: HP Truevision HD as /devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.3/1-1.3:1.0/input/input9
+Mar 14 01:08:05 ihartlinux kernel: [   20.543560] usbcore: registered new interface driver uvcvideo
+Mar 14 01:08:05 ihartlinux kernel: [   20.543562] USB Video Class driver (1.1.1)
+Mar 14 01:08:05 ihartlinux kernel: [   20.600961] microcode: CPU1 sig=0x306a9, pf=0x10, revision=0x17
+Mar 14 01:08:05 ihartlinux kernel: [   20.602904] microcode: CPU2 sig=0x306a9, pf=0x10, revision=0x17
+Mar 14 01:08:05 ihartlinux kernel: [   20.603372] microcode: CPU3 sig=0x306a9, pf=0x10, revision=0x17
+Mar 14 01:08:05 ihartlinux kernel: [   20.603925] microcode: Microcode Update Driver: v2.00 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+Mar 14 01:08:05 ihartlinux kernel: [   20.633577] kvm: disabled by bios
+Mar 14 01:08:05 ihartlinux kernel: [   20.669570] psmouse serio1: synaptics: Touchpad model: 1, fw: 8.1, id: 0x1e2b1, caps: 0xd00123/0x840300/0x127c00, board id: 2667, fw id: 1280283
+Mar 14 01:08:05 ihartlinux kernel: [   20.709946] input: SynPS/2 Synaptics TouchPad as /devices/platform/i8042/serio1/input/input10
+Mar 14 01:08:05 ihartlinux kernel: [   20.809183] cfg80211: World regulatory domain updated:
+Mar 14 01:08:05 ihartlinux kernel: [   20.809186] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Mar 14 01:08:05 ihartlinux kernel: [   20.809187] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 14 01:08:05 ihartlinux kernel: [   20.809188] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 14 01:08:05 ihartlinux kernel: [   20.809189] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar 14 01:08:05 ihartlinux kernel: [   20.809190] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 14 01:08:05 ihartlinux kernel: [   20.809191] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 14 01:08:05 ihartlinux kernel: [   20.895997] input: HP WMI hotkeys as /devices/virtual/input/input11
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Bluetooth daemon 4.101
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Starting SDP server
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: DIS cannot start: GATT is disabled
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Failed to init deviceinfo plugin
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Failed to init proximity plugin
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Failed to init time plugin
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Failed to init alert plugin
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Failed to init thermometer plugin
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Failed to init gatt_example plugin
+Mar 14 01:08:05 ihartlinux bluetoothd[752]: Bluetooth Management interface initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.212239] Bluetooth: Core ver 2.16
+Mar 14 01:08:05 ihartlinux kernel: [   21.212254] NET: Registered protocol family 31
+Mar 14 01:08:05 ihartlinux kernel: [   21.212255] Bluetooth: HCI device and connection manager initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.212261] Bluetooth: HCI socket layer initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.212263] Bluetooth: L2CAP socket layer initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.212266] Bluetooth: SCO socket layer initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.214708] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Mar 14 01:08:05 ihartlinux kernel: [   21.214711] Bluetooth: BNEP filters: protocol multicast
+Mar 14 01:08:05 ihartlinux kernel: [   21.214718] Bluetooth: BNEP socket layer initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.215459] Bluetooth: RFCOMM TTY layer initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.215468] Bluetooth: RFCOMM socket layer initialized
+Mar 14 01:08:05 ihartlinux kernel: [   21.215469] Bluetooth: RFCOMM ver 1.11
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  ModemManager (version 0.6.0.0) starting...
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Found user 'avahi' (UID 110) and group 'avahi' (GID 116).
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Successfully dropped root privileges.
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: avahi-daemon 0.6.31 starting up.
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Successfully called chroot().
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Successfully dropped remaining capabilities.
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Wavecom'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Samsung'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Huawei'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Nokia'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Gobi'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Ericsson MBM'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Option'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Sierra'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'SimTech'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Option High-Speed'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'AnyData'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'MotoC'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Longcheer'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Linktop'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'ZTE'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Novatel'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'X22X'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Iridium'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Cinterion'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Loaded plugin 'Generic'
+Mar 14 01:08:06 ihartlinux modem-manager[690]: <info>  Successfully loaded 20 plugins
+Mar 14 01:08:06 ihartlinux kernel: [   21.566722] ppdev: user-space parallel port driver
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Loading service file /services/udisks.service.
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Network interface enumeration completed.
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Registering HINFO record with values 'X86_64'/'LINUX'.
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Server startup complete. Host name is iHartLinux.local. Local service cookie is 4231937448.
+Mar 14 01:08:06 ihartlinux avahi-daemon[780]: Service "iHartLinux" (/services/udisks.service) successfully established.
+Mar 14 01:08:06 ihartlinux anacron[887]: Anacron 2.3 started on 2014-03-14
+Mar 14 01:08:06 ihartlinux acpid: starting up with proc fs
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> NetworkManager (version 0.9.8.0) is starting...
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> Read config file /etc/NetworkManager/NetworkManager.conf
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> WEXT support is enabled
+Mar 14 01:08:06 ihartlinux ntpdate[997]: Can't find host ntp.ubuntu.com: Name or service not known (-2)
+Mar 14 01:08:06 ihartlinux ntpdate[997]: no servers can be used, exiting
+Mar 14 01:08:06 ihartlinux cron[844]: (CRON) INFO (pidfile fd = 3)
+Mar 14 01:08:06 ihartlinux acpid: 9 rules loaded
+Mar 14 01:08:06 ihartlinux acpid: waiting for events: event logging is off
+Mar 14 01:08:06 ihartlinux cron[1025]: (CRON) STARTUP (fork ok)
+Mar 14 01:08:06 ihartlinux cron[1025]: (CRON) INFO (Running @reboot jobs)
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> VPN: loaded org.freedesktop.NetworkManager.pptp
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> DNS: loaded plugin dnsmasq
+Mar 14 01:08:06 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.PolicyKit1' (using servicehelper)
+Mar 14 01:08:06 ihartlinux anacron[887]: Normal exit (0 jobs run)
+Mar 14 01:08:06 ihartlinux polkitd[1044]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Mar 14 01:08:06 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: init!
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: update_system_hostname
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPluginIfupdown: management mode: unmanaged
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:1c.0/0000:01:00.0/net/wlan0, iface: wlan0)
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:1c.0/0000:01:00.0/net/wlan0, iface: wlan0): no ifupdown configuration found.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:1c.3/0000:08:00.0/net/eth0, iface: eth0)
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:1c.3/0000:08:00.0/net/eth0, iface: eth0): no ifupdown configuration found.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/virtual/net/lo, iface: lo)
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: device added (path: /sys/devices/virtual/net/lo, iface: lo): no ifupdown configuration found.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: end _init.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> Loaded plugin ifupdown: (C) 2008 Canonical Ltd.  To report bugs please use the NetworkManager mailing list.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> Loaded plugin keyfile: (c) 2007 - 2010 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ofono: Acquired D-Bus service com.canonical.NMOfono
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ofono: init!
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ofono: end _init.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]: <info> Loaded plugin (null): (null)
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    Ifupdown: get unmanaged devices count: 0
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: (32732416) ... get_connections.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    SCPlugin-Ifupdown: (32732416) ... get_connections (managed=false): return empty list.
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile: parsing elemental-guest ... 
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile:     read connection 'elemental-guest'
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile: parsing Stephouse Wireless ... 
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile:     read connection 'Stephouse Wireless'
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile: parsing SETUP ... 
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile:     read connection 'SETUP'
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile: parsing Pub-guest ... 
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile:     read connection 'Pub-guest'
+Mar 14 01:08:06 ihartlinux NetworkManager[910]:    keyfile: parsing Clear Spot 2a9 ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'Clear Spot 2a9'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing Brainsilo ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'Brainsilo'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing Stingray-guest ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'Stingray-guest'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing lesschwabpublic ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'lesschwabpublic'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing safewaywifi ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'safewaywifi'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing shitballs ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'shitballs'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing myqwest7505 ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'myqwest7505'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing attwifi 1 ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'attwifi 1'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing PAPAG ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'PAPAG'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing Wired connection 1 ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'Wired connection 1'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing myqwest3042 ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'myqwest3042'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing orchid ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'orchid'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing JazzkatsCoffeeBar ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'JazzkatsCoffeeBar'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing attwifi ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'attwifi'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile: parsing UrbanAirshipGuest ... 
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    keyfile:     read connection 'UrbanAirshipGuest'
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    SCPlugin-Ofono: (201340192) ... get_connections.
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    SCPlugin-Ofono: (201340192) connections count: 0
+Mar 14 01:08:07 ihartlinux NetworkManager[910]:    Ifupdown: get unmanaged devices count: 0
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> modem-manager is now available
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> monitoring kernel firmware directory '/lib/firmware'.
+Mar 14 01:08:07 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:08:07 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> rfkill0: found WiFi radio killswitch (at /sys/devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ieee80211/phy0/rfkill0) (driver rtl8188ee)
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> WiFi hardware radio set enabled
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> WiFi enabled by radio killswitch; enabled by state file
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> WWAN enabled by radio killswitch; enabled by state file
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> WiMAX enabled by radio killswitch; enabled by state file
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> Networking is enabled by state file
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): using nl80211 for WiFi device control
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): driver supports Access Point (AP) mode
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): new 802.11 WiFi device (driver: 'rtl8188ee' ifindex: 3)
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): exported as /org/freedesktop/NetworkManager/Devices/0
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): bringing up device.
+Mar 14 01:08:07 ihartlinux whoopsie[874]: whoopsie 0.2.24.1ubuntu1 starting up.
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): preparing device.
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (wlan0): deactivating device (reason 'managed') [2]
+Mar 14 01:08:07 ihartlinux dbus[655]: [system] Activating service name='fi.w1.wpa_supplicant1' (using servicehelper)
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <warn> failed to allocate link cache: (-10) Operation not supported
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (eth0): carrier is OFF
+Mar 14 01:08:07 ihartlinux kernel: [   23.368023] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+Mar 14 01:08:07 ihartlinux kernel: [   23.368229] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (eth0): new Ethernet device (driver: 'r8169' ifindex: 2)
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (eth0): exported as /org/freedesktop/NetworkManager/Devices/1
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Mar 14 01:08:07 ihartlinux NetworkManager[910]: <info> (eth0): bringing up device.
+Mar 14 01:08:07 ihartlinux whoopsie[874]: Using lock path: /var/lock/whoopsie/lock
+Mar 14 01:08:07 ihartlinux dbus[655]: [system] Successfully activated service 'fi.w1.wpa_supplicant1'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (eth0): preparing device.
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (eth0): deactivating device (reason 'managed') [2]
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <warn> /sys/devices/virtual/net/lo: couldn't determine device driver; ignoring...
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <warn> /sys/devices/virtual/net/lo: couldn't determine device driver; ignoring...
+Mar 14 01:08:08 ihartlinux kernel: [   23.479619] r8169 0000:08:00.0 eth0: link down
+Mar 14 01:08:08 ihartlinux kernel: [   23.479667] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Mar 14 01:08:08 ihartlinux kernel: [   23.480025] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> wpa_supplicant started
+Mar 14 01:08:08 ihartlinux whoopsie[1109]: offline
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0) supports 4 scan SSIDs
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <warn> Trying to remove a non-existant call id.
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: starting -> ready
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: ready -> inactive
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0) supports 4 scan SSIDs
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Auto-activating connection 'orchid'.
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) starting connection 'orchid'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 14 01:08:08 ihartlinux whoopsie[1109]: offline
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0/wireless): connection 'orchid' has security, and secrets exist.  No new secrets needed.
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Config: added 'ssid' value 'orchid'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Config: added 'scan_ssid' value '1'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Config: added 'auth_alg' value 'OPEN'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Config: added 'psk' value '<omitted>'
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> Config: set interface ap_scan to 1
+Mar 14 01:08:08 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: inactive -> scanning
+Mar 14 01:08:09 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:08:09 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:08:09 ihartlinux wpa_supplicant[1112]: wlan0: SME: Trying to authenticate with 00:21:29:6a:b2:2e (SSID='orchid' freq=2437 MHz)
+Mar 14 01:08:09 ihartlinux kernel: [   25.183311] wlan0: authenticate with 00:21:29:6a:b2:2e
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Mar 14 01:08:09 ihartlinux wpa_supplicant[1112]: wlan0: Trying to associate with 00:21:29:6a:b2:2e (SSID='orchid' freq=2437 MHz)
+Mar 14 01:08:09 ihartlinux kernel: [   25.202943] wlan0: send auth to 00:21:29:6a:b2:2e (try 1/3)
+Mar 14 01:08:09 ihartlinux kernel: [   25.204844] wlan0: authenticated
+Mar 14 01:08:09 ihartlinux kernel: [   25.205006] rtl8188ee 0000:01:00.0 wlan0: disabling HT/VHT due to WEP/TKIP use
+Mar 14 01:08:09 ihartlinux kernel: [   25.205010] rtl8188ee 0000:01:00.0 wlan0: disabling HT as WMM/QoS is not supported by the AP
+Mar 14 01:08:09 ihartlinux kernel: [   25.205011] rtl8188ee 0000:01:00.0 wlan0: disabling VHT as WMM/QoS is not supported by the AP
+Mar 14 01:08:09 ihartlinux kernel: [   25.206588] wlan0: associate with 00:21:29:6a:b2:2e (try 1/3)
+Mar 14 01:08:09 ihartlinux wpa_supplicant[1112]: wlan0: Associated with 00:21:29:6a:b2:2e
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: authenticating -> associated
+Mar 14 01:08:09 ihartlinux kernel: [   25.208671] wlan0: RX AssocResp from 00:21:29:6a:b2:2e (capab=0x411 status=0 aid=6)
+Mar 14 01:08:09 ihartlinux kernel: [   25.208837] wlan0: associated
+Mar 14 01:08:09 ihartlinux kernel: [   25.208843] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: associated -> group handshake
+Mar 14 01:08:09 ihartlinux wpa_supplicant[1112]: wlan0: WPA: Key negotiation completed with 00:21:29:6a:b2:2e [PTK=TKIP GTK=TKIP]
+Mar 14 01:08:09 ihartlinux wpa_supplicant[1112]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:21:29:6a:b2:2e completed (auth) [id=0 id_str=]
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): supplicant interface state: group handshake -> completed
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'orchid'.
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> dhclient started with pid 1196
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Beginning IP6 addrconf.
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+Mar 14 01:08:09 ihartlinux dhclient: Internet Systems Consortium DHCP Client 4.2.4
+Mar 14 01:08:09 ihartlinux dhclient: Copyright 2004-2012 Internet Systems Consortium.
+Mar 14 01:08:09 ihartlinux dhclient: All rights reserved.
+Mar 14 01:08:09 ihartlinux dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Mar 14 01:08:09 ihartlinux dhclient: 
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+Mar 14 01:08:09 ihartlinux dhclient: Listening on LPF/wlan0/80:56:f2:49:d3:41
+Mar 14 01:08:09 ihartlinux dhclient: Sending on   LPF/wlan0/80:56:f2:49:d3:41
+Mar 14 01:08:09 ihartlinux dhclient: Sending on   Socket/fallback
+Mar 14 01:08:09 ihartlinux dhclient: DHCPREQUEST of 192.168.1.111 on wlan0 to 255.255.255.255 port 67 (xid=0x7900e522)
+Mar 14 01:08:09 ihartlinux dhclient: DHCPACK of 192.168.1.111 from 192.168.1.1
+Mar 14 01:08:09 ihartlinux dhclient: bound to 192.168.1.111 -- renewal in 35229 seconds.
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> (wlan0): DHCPv4 state changed preinit -> reboot
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info>   address 192.168.1.111
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info>   prefix 24 (255.255.255.0)
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info>   gateway 192.168.1.1
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info>   hostname 'iHartLinux'
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info>   nameserver '192.168.15.1'
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info>   domain name 'hsd1.wa.comcast.net.'
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Mar 14 01:08:09 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+Mar 14 01:08:09 ihartlinux avahi-daemon[780]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.111.
+Mar 14 01:08:09 ihartlinux avahi-daemon[780]: New relevant interface wlan0.IPv4 for mDNS.
+Mar 14 01:08:09 ihartlinux avahi-daemon[780]: Registering new address record for 192.168.1.111 on wlan0.IPv4.
+Mar 14 01:08:09 ihartlinux postfix/master[1184]: daemon started -- version 2.10.2, configuration /etc/postfix
+Mar 14 01:08:10 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.Accounts' (using servicehelper)
+Mar 14 01:08:10 ihartlinux accounts-daemon[1277]: started daemon version 0.6.34
+Mar 14 01:08:10 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.Accounts'
+Mar 14 01:08:10 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: ip-config -> secondaries (reason 'none') [70 90 0]
+Mar 14 01:08:10 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+Mar 14 01:08:10 ihartlinux NetworkManager[910]: <info> (wlan0): device state change: secondaries -> activated (reason 'none') [90 100 0]
+Mar 14 01:08:11 ihartlinux NetworkManager[910]: <info> Policy set 'orchid' (wlan0) as default for IPv4 routing and DNS.
+Mar 14 01:08:11 ihartlinux NetworkManager[910]: <info> DNS: starting dnsmasq...
+Mar 14 01:08:11 ihartlinux NetworkManager[910]: <warn> dnsmasq not available on the bus, can't update servers.
+Mar 14 01:08:11 ihartlinux NetworkManager[910]: <error> [1394784491.17153] [nm-dns-dnsmasq.c:402] update(): dnsmasq owner not found on bus: Could not get owner of name 'org.freedesktop.NetworkManager.dnsmasq': no such name
+Mar 14 01:08:11 ihartlinux NetworkManager[910]: <warn> DNS: plugin dnsmasq update failed
+Mar 14 01:08:11 ihartlinux NetworkManager[910]: <info> Writing DNS information to /sbin/resolvconf
+Mar 14 01:08:11 ihartlinux dnsmasq[1310]: started, version 2.66 cache disabled
+Mar 14 01:08:11 ihartlinux dnsmasq[1310]: compile time options: IPv6 GNU-getopt DBus i18n IDN DHCP DHCPv6 no-Lua TFTP conntrack ipset auth
+Mar 14 01:08:11 ihartlinux dnsmasq[1310]: DBus support enabled: connected to system bus
+Mar 14 01:08:11 ihartlinux dnsmasq[1310]: warning: no upstream servers configured
+Mar 14 01:08:11 ihartlinux avahi-daemon[780]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::8256:f2ff:fe49:d341.
+Mar 14 01:08:11 ihartlinux avahi-daemon[780]: New relevant interface wlan0.IPv6 for mDNS.
+Mar 14 01:08:11 ihartlinux avahi-daemon[780]: Registering new address record for fe80::8256:f2ff:fe49:d341 on wlan0.*.
+Mar 14 01:08:13 ihartlinux kernel: [   28.505594] bio: create slab <bio-1> at 1
+Mar 14 01:08:14 ihartlinux whoopsie[1109]: Could not get the list of active connections: Timeout was reached
+Mar 14 01:08:17 ihartlinux postfix/master[1184]: reload -- version 2.10.2, configuration /etc/postfix
+Mar 14 01:08:17 ihartlinux NetworkManager[910]: <info> Activation (wlan0) successful, device activated.
+Mar 14 01:08:17 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 14 01:08:17 ihartlinux NetworkManager[910]: <warn> dnsmasq appeared on DBus: :1.21
+Mar 14 01:08:17 ihartlinux NetworkManager[910]: <info> Writing DNS information to /sbin/resolvconf
+Mar 14 01:08:17 ihartlinux dnsmasq[1310]: setting upstream servers from DBus
+Mar 14 01:08:17 ihartlinux dnsmasq[1310]: using nameserver 192.168.15.1#53
+Mar 14 01:08:17 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 14 01:08:17 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.UPower' (using servicehelper)
+Mar 14 01:08:17 ihartlinux postfix/qmgr[1647]: AD2DB1560F4E: from=<hmsimha@iHartLinux>, size=3874, nrcpt=1 (queue active)
+Mar 14 01:08:17 ihartlinux postfix/qmgr[1647]: 140CE1560F54: from=<hmsimha@iHartLinux>, size=438, nrcpt=1 (queue active)
+Mar 14 01:08:17 ihartlinux postfix/qmgr[1647]: C9D051560F58: from=<hmsimha@iHartLinux>, size=445, nrcpt=1 (queue active)
+Mar 14 01:08:17 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.UPower'
+Mar 14 01:08:18 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.systemd1' (using servicehelper)
+Mar 14 01:08:18 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.systemd1'
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1824]: Upgrading MySQL tables if necessary.
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1828]: /usr/bin/mysql_upgrade: the '--basedir' option is always ignored
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1828]: Looking for 'mysql' as: /usr/bin/mysql
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1828]: Looking for 'mysqlcheck' as: /usr/bin/mysqlcheck
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1828]: This installation of MySQL is already upgraded to 5.5.35, use --force if you still need to run mysql_upgrade
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1856]: Checking for insecure root accounts.
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1861]: WARNING: mysql.user contains 4 root accounts without password!
+Mar 14 01:08:18 ihartlinux /etc/mysql/debian-start[1862]: Triggering myisam-recover for all MyISAM tables
+Mar 14 01:08:19 ihartlinux anacron[1871]: Anacron 2.3 started on 2014-03-14
+Mar 14 01:08:19 ihartlinux anacron[1871]: Normal exit (0 jobs run)
+Mar 14 01:08:19 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.ColorManager' (using servicehelper)
+Mar 14 01:08:20 ihartlinux colord: Using config file /etc/colord.conf
+Mar 14 01:08:20 ihartlinux colord: Using mapping database file /var/lib/colord/mapping.db
+Mar 14 01:08:20 ihartlinux colord: Using device database file /var/lib/colord/storage.db
+Mar 14 01:08:20 ihartlinux colord: loaded plugin libcd_plugin_camera.so
+Mar 14 01:08:20 ihartlinux colord: loaded plugin libcd_plugin_scanner.so
+Mar 14 01:08:20 ihartlinux colord: plugin /usr/lib/x86_64-linux-gnu/colord-plugins/libcd_plugin_sane.so not loaded: plugin refused to load
+Mar 14 01:08:20 ihartlinux colord: Daemon ready for requests
+Mar 14 01:08:20 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-0efe0c4cd9b09c72ff5b0d407ebdbd80
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-9d21c156e7631af5bc00bec7b35c31a9
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-e209f6f1e897d6fbc3bbc66e21fe46a9
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-b920cdc20756e05653f42f9f171ecec9
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-0075bbf6787fe025e3e8be7c60ab1cc0
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-f3f81cb5b41e8de556fdcc01ccb29c5f
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-465d1507ae264c466248b7efc1f2ee22
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-33eef553a4017f238711fb8afc0d6e87
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-3ad3ba8e09b76fa91573dc2f1aad6e98
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-10f8fa4e3eae00a31f679de411c9c737
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-bbb2b6d0b2f673b7e0b5066a257fc194
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-0fb902a132159af7eee4a70af0921c06
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-c7db4d1010988277db4d076f37757a01
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-ec9cedcd8450615939a12ac24ec5e8dc
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-a5cf2e0debcd2aed283c58d15ca28da9
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-f719b10f8219a720944043462516a013
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-93945c373d44de2f7199fc8b0782fadf
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-2aab7bab389c800a5a8cb31a7d6ba1ef
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-68e72a11d2fc535f7d3c7d157432bbd1
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-a3fb06a189e5654272f614e56cd57921
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-bab0d408ed0547d599c49f07675cdffc
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-66cedf35b4ba8c0be05be4e53ee68bbe
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-7da256bc299fa3e414b0d5bfef41697d
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-3660934ca71cad605724215aa7e6a5a4
+Mar 14 01:08:20 ihartlinux colord: Device added: sysfs-SunplusIT_INC.-HP_Truevision_HD
+Mar 14 01:08:20 ihartlinux colord: Device added: xrandr-LVDS1
+Mar 14 01:08:20 ihartlinux colord: Automatic metadata add icc-b274abdaaffd0177381e73aa8a63a27b to xrandr-LVDS1
+Mar 14 01:08:20 ihartlinux colord: Profile added: icc-b274abdaaffd0177381e73aa8a63a27b
+Mar 14 01:08:20 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.RealtimeKit1' (using servicehelper)
+Mar 14 01:08:20 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Successfully called chroot.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Successfully dropped privileges.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Successfully limited resources.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Running.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Watchdog thread running.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Canary thread running.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Successfully made thread 2018 of process 2018 (n/a) owned by '111' high priority at nice level -11.
+Mar 14 01:08:20 ihartlinux rtkit-daemon[2020]: Supervising 1 threads of 1 processes of 1 users.
+Mar 14 01:08:21 ihartlinux rtkit-daemon[2020]: Successfully made thread 2038 of process 2018 (n/a) owned by '111' RT at priority 5.
+Mar 14 01:08:21 ihartlinux rtkit-daemon[2020]: Supervising 2 threads of 1 processes of 1 users.
+Mar 14 01:08:21 ihartlinux rtkit-daemon[2020]: Successfully made thread 2039 of process 2018 (n/a) owned by '111' RT at priority 5.
+Mar 14 01:08:21 ihartlinux rtkit-daemon[2020]: Supervising 3 threads of 1 processes of 1 users.
+Mar 14 01:08:21 ihartlinux rtkit-daemon[2020]: Successfully made thread 2041 of process 2041 (n/a) owned by '111' high priority at nice level -11.
+Mar 14 01:08:21 ihartlinux rtkit-daemon[2020]: Supervising 4 threads of 2 processes of 1 users.
+Mar 14 01:08:21 ihartlinux pulseaudio[2041]: [pulseaudio] pid.c: Daemon already running.
+Mar 14 01:08:22 ihartlinux postfix/master[1184]: reload -- version 2.10.2, configuration /etc/postfix
+Mar 14 01:08:22 ihartlinux postfix/qmgr[2102]: 140CE1560F54: skipped, still being delivered
+Mar 14 01:08:22 ihartlinux postfix/qmgr[2102]: AD2DB1560F4E: skipped, still being delivered
+Mar 14 01:08:22 ihartlinux postfix/qmgr[2102]: C9D051560F58: skipped, still being delivered
+Mar 14 01:08:22 ihartlinux kernel: [   38.339891] Adding 8273916k swap on /dev/mapper/cryptswap1.  Priority:-1 extents:1 across:8273916k FS
+Mar 14 01:08:24 ihartlinux ntpdate[1699]: adjust time server 91.189.89.199 offset -0.217508 sec
+Mar 14 01:08:24 ihartlinux lightdm: pam_ecryptfs: Passphrase file wrapped
+Mar 14 01:08:25 ihartlinux colord: device removed: xrandr-LVDS1
+Mar 14 01:08:25 ihartlinux colord: Profile removed: icc-b274abdaaffd0177381e73aa8a63a27b
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Successfully made thread 2427 of process 2427 (n/a) owned by '1000' high priority at nice level -11.
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Supervising 4 threads of 2 processes of 2 users.
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Successfully made thread 2520 of process 2427 (n/a) owned by '1000' RT at priority 5.
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Supervising 5 threads of 2 processes of 2 users.
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Successfully made thread 2521 of process 2427 (n/a) owned by '1000' RT at priority 5.
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Supervising 6 threads of 2 processes of 2 users.
+Mar 14 01:08:27 ihartlinux gnome-session[2370]: WARNING: Could not parse desktop file telepathy-indicator.desktop or it references a not found TryExec binary
+Mar 14 01:08:27 ihartlinux gnome-session[2370]: WARNING: Could not parse desktop file gnome-user-share.desktop or it references a not found TryExec binary
+Mar 14 01:08:27 ihartlinux gnome-session[2370]: WARNING: Could not parse desktop file nautilus-autostart.desktop or it references a not found TryExec binary
+Mar 14 01:08:27 ihartlinux gnome-session[2370]: WARNING: Could not parse desktop file deja-dup-monitor.desktop or it references a not found TryExec binary
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Successfully made thread 2538 of process 2538 (n/a) owned by '1000' high priority at nice level -11.
+Mar 14 01:08:27 ihartlinux rtkit-daemon[2020]: Supervising 7 threads of 3 processes of 2 users.
+Mar 14 01:08:27 ihartlinux pulseaudio[2538]: [pulseaudio] pid.c: Daemon already running.
+Mar 14 01:08:27 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.locale1' (using servicehelper)
+Mar 14 01:08:27 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.locale1'
+Mar 14 01:08:27 ihartlinux colord: Device added: xrandr-LVDS1
+Mar 14 01:08:28 ihartlinux colord: Profile added: icc-cb870ce478e1d667e995ef8bd5e4d663
+Mar 14 01:08:28 ihartlinux colord: Automatic metadata add icc-be7f03d9cb17bee5afa57fa7f79a894f to xrandr-LVDS1
+Mar 14 01:08:28 ihartlinux colord: Profile added: icc-be7f03d9cb17bee5afa57fa7f79a894f
+Mar 14 01:08:29 ihartlinux NetworkManager[910]: <info> (wlan0): IP6 addrconf timed out or failed.
+Mar 14 01:08:29 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+Mar 14 01:08:29 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+Mar 14 01:08:29 ihartlinux NetworkManager[910]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+Mar 14 01:08:30 ihartlinux dbus[655]: [system] Activating service name='org.freedesktop.UDisks2' (using servicehelper)
+Mar 14 01:08:30 ihartlinux udisksd[2646]: udisks daemon version 2.1.0 starting
+Mar 14 01:08:30 ihartlinux dbus[655]: [system] Successfully activated service 'org.freedesktop.UDisks2'
+Mar 14 01:08:30 ihartlinux udisksd[2646]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Mar 14 01:08:38 ihartlinux postfix/smtp[1754]: 140CE1560F54: to=<hmsimha@gmail.com>, relay=none, delay=29547, delays=29526/0.36/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:08:38 ihartlinux postfix/smtp[1751]: AD2DB1560F4E: to=<hmsimha@gmail.com>, relay=none, delay=29875, delays=29855/0.4/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:08:38 ihartlinux postfix/smtp[1757]: C9D051560F58: to=<hmsimha@gmail.com>, relay=none, delay=29511, delays=29491/0.22/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:09:01 ihartlinux CRON[2777]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
+Mar 14 01:09:10 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:09:10 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:09:10 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:09:19 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:09:19 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:09:19 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:10:22 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:10:22 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:10:22 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:10:41 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:10:41 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:10:41 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:10:47 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:10:47 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:10:47 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:10:51 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:10:51 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:10:51 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:11:17 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:11:17 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:11:17 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:11:41 ihartlinux acpid: client 1039[0:0] has disconnected
+Mar 14 01:11:41 ihartlinux acpid: client connected from 1039[0:0]
+Mar 14 01:11:41 ihartlinux acpid: 1 client rule loaded
+Mar 14 01:13:22 ihartlinux postfix/qmgr[2102]: 140CE1560F54: from=<hmsimha@iHartLinux>, size=438, nrcpt=1 (queue active)
+Mar 14 01:13:22 ihartlinux postfix/qmgr[2102]: AD2DB1560F4E: from=<hmsimha@iHartLinux>, size=3874, nrcpt=1 (queue active)
+Mar 14 01:13:22 ihartlinux postfix/qmgr[2102]: C9D051560F58: from=<hmsimha@iHartLinux>, size=445, nrcpt=1 (queue active)
+Mar 14 01:13:42 ihartlinux postfix/smtp[3139]: 140CE1560F54: to=<hmsimha@gmail.com>, relay=none, delay=29851, delays=29831/0.01/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:13:42 ihartlinux postfix/smtp[3140]: AD2DB1560F4E: to=<hmsimha@gmail.com>, relay=none, delay=30180, delays=30160/0.01/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:13:42 ihartlinux postfix/smtp[3141]: C9D051560F58: to=<hmsimha@gmail.com>, relay=none, delay=29816, delays=29796/0.02/20/0, dsn=4.4.3, status=deferred (Host or domain name not found. Name service error for name=gmail.com type=MX: Host not found, try again)
+Mar 14 01:14:15 ihartlinux sudo: pam_ecryptfs: pam_sm_authenticate: /home/hmsimha is already mounted
